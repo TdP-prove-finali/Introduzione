@@ -1,44 +1,14 @@
-# Struttura della proposta di prova finale
+# Elaborato finale
 
-La proposta dovrà contenere le informazioni sotto indicate, e non superare 2 pagine.
+L’elaborato finale dovrà contenere le seguenti informazioni:
 
-Da copiare ed incollare (mantenendo la formattazione Markdown) come [nuova issue](https://github.com/TdP-prove-finali/Introduzione/issues/new).
-
-```markdown
-### Studente proponente
-
-s123456 Rossi Mario
-
-### Titolo della proposta
-
-Risposta alla domanda fondamentale sulla vita, l'universo e tutto quanto
-
-### Descrizione del problema proposto
-
-Quale problema si intende risolvere (5-10 righe)
-
-### Descrizione della rilevanza gestionale del problema
-
-Dovè l'interesse dal punto di vista gestionale (5-10 righe)
-
-### Descrizione dei data-set per la valutazione	
-
-Identificare le fonti dalle quali verranno tratti i dati utilizzati
-(max 1/2 pagina)
-
-### Descrizione preliminare degli algoritmi coinvolti	
-
-Indicare quali sono i principali problemi algoritmici che si dovranno
-affrontare.
-Non sono sufficienti applicazioni di tipo "inserimento/ricerca di record".
-(tutto lo spazio necessario)
-
-### Descrizione preliminare delle funzionalità previste per l’applicazione software	
-
-Descrivere, a livello di previsione generale, quale sarà il funzionamento
-dell'applicazione, vista dall'utente che la dovrà utilizzare.
-(max 1/2 pagina)
-
-```
-
-Per eventuali dubbi, contattatemi via e-mail.
+1.	Titolo del progetto e riferimenti dello studente
+2.	Copia integrale dell’Allegato 1 (con eventuali modifiche, correzioni, integrazioni che siano emerse durante il lavoro)
+3.	Descrizione dettagliata del problema affrontato (partendo dal contesto operativo/aziendale, delineare il sotto-problema scelto, evidenziandone input, output, criticità, potenzialità, e rilevanza)
+4.	Descrizione del data-set utilizzato per l’analisi
+5.	Descrizione ad alto livello delle strutture dati e degli algoritmi utilizzati
+6.	Diagramma delle classi delle parti principali (le parti più legate alla parte algoritmica) dell’applicazione
+7.	Alcune videate dell’applicazione realizzata e link al video dimostrativo del software
+8.	Tabelle con risultati sperimentali ottenuti (risultati, valori, tempi, …)
+9.	Valutazioni sui risultati ottenuti (punti di forza, punti di debolezza, contributo rispetto al problema aziendale descritto al punto 3) e conclusioni.
+I punti 3-9 della relazione non dovranno superare la lunghezza complessiva di 5 pagine (escluse figure e tabelle).
