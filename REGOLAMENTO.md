@@ -21,7 +21,7 @@ L’argomento proposto dallo studente dovrà avere le seguenti caratteristiche:
 
 ## Assegnazione dei lavori
 
-Gli studenti che desiderano proporre un argomento per la prova finale dovranno inviare un breve documento di specifica, redatto secondo il (modello di proposta)[MODELLOPROPOSTA.md]. La consegna dovrà avvenire almeno un mese prima della sessione di laurea; preferibilmente con maggiore anticipo. La proposta dovrà essere caricata come "nuova issue" in questo progetto GitHub.
+Gli studenti che desiderano proporre un argomento per la prova finale dovranno inviare un breve documento di specifica, redatto secondo il [modello di proposta](MODELLOPROPOSTA.md). La consegna dovrà avvenire almeno un mese prima della sessione di laurea; preferibilmente con maggiore anticipo. La proposta dovrà essere caricata come "nuova issue" in questo progetto GitHub.
 
 Entro una settimana dalla ricezione, la proposta verrà analizzata, accettata o rifiutata (sulla base del soddisfacimento delle caratteristiche sopra esposte e della chiarezza e completezza della proposta compilata). In caso di problemi, sarà possibile interagire (attraverso i messaggi della issue) per migliorare la proposta.
 
@@ -41,7 +41,7 @@ Gli strumenti, le tecnologie e le librerie utilizzate potranno essere quelle ill
 
 Entro 10 giorni prima della data prevista per la laurea, lo studente dovrà consegnare il lavoro terminato. La consegna deve comprendere:
 
- -	Una relazione tecnica, in formato PDF ed in formato sorgente (doc, odt, tex, ...), che comprenda le informazioni elencate nella (struttura della relazione)[STRUTTURARELAZIONE.md]. Tale documentazione dovrà essere caricata in una sottocartella `documenti` del progetto GitHub
+ -	Una relazione tecnica, in formato PDF ed in formato sorgente (doc, odt, tex, ...), che comprenda le informazioni elencate nella [struttura della relazione](STRUTTURARELAZIONE.md). Tale documentazione dovrà essere caricata in una sottocartella `documenti` del progetto GitHub
  -	Un breve video (screencast), caricato su YouTube (o su altri siti analoghi), di non più di 5 minuti, che dimostri il funzionamento del programma.
  -	L'intero progetto, comprendente i sorgenti del software sviluppato, copia degli eventuali data-set e di un file README.txt contenente le istruzioni per l’installazione ed il test del software. Tale codice dovrà essere caricato nel progetto GitHub assegnato.
 
