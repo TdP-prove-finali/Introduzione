@@ -4,7 +4,7 @@ Per coloro che intendono svolgere la prova finale relativamente alle tematiche t
 
 La procedura si articola in 4 passi:
 
- 1. Visionare il "regolamento" per lo svolgimento delle prove finali relative al corso di Tecniche di Programmazione
+ 1. [Visionare il "regolamento"](REGOLAMENTO.md) per lo svolgimento delle prove finali relative al corso di Tecniche di Programmazione
  1. Presentazione di una proposta da parte dello studente ([creando una nuova Issue](https://github.com/TdP-prove-finali/Introduzione/issues/new) su questo progetto GitHub)
  1. Revisione della proposta, eventuali feedback, modifiche, affinamenti, attraverso dialogo studente-docente sulla Issue aperta
  1. Approvazione della proposta: a questo punto verrà creato un repository GitHub per ospitare il progetto
