@@ -23,5 +23,5 @@ La procedura si articola in 4 passi:
 | Marco Montalto Monella | [TwitterSquawk, financial breaking news from a Twitter account](https://github.com/MarcoMontaltoMonella/TwitterSquawk) | [:arrow_forward:](https://youtu.be/-zN892KUz1s) | 2015 |
 | Elia Moscariello | Agenda Manager | [:arrow_forward:](https://youtu.be/W6hIH819lP0) | 2015 |
 | Concettina Prestanicola | Material  Requirements Planning | [:arrow_forward:](https://youtu.be/aWabk2vQpHA) | 2014 |
-| Fanny Acquafresca | Gestione ed ottimizzazione del processo di prenotazione alberghiera || 2013 |
+| Fanny Acquafresca | [Gestione ed ottimizzazione del processo di prenotazione alberghiera](https://github.com/TdP-prove-finali/AcquafrescaFanny) |  | 2013 |
 | Silvia Tabasso | La Gestione Delle Scorte | [:arrow_forward:](https://youtu.be/QuZiWdIHYlg) | 2013 |
