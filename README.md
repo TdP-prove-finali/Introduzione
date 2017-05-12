@@ -11,7 +11,13 @@ La procedura si articola in 4 passi:
  1. Svolgimento del lavoro (si consiglia di lavorare in questo repository)
  1. Consegna del risultato, attraverso la consegna su GitHub di tutto il materiale richiesto
 
- # Lavori precedenti
+ # Lavori assegnati
+ 
+ | Studente | Titolo | Anno | 
+ |---|---|---|
+ | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | 2017 |
+ 
+ # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
