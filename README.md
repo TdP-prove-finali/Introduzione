@@ -15,7 +15,7 @@ La procedura si articola in 4 passi:
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
-| Jessica Giardi | Cash Registers Manager || 2016 |
+| Jessica Giardi | [Cash Registers Manager](https://github.com/TdP-prove-finali/GiardiJessica) | [:arrow_forward:](https://youtu.be/1sMY-H0Bwd0) | 2016 |
 | Pietro Martino | Controllo di Gestione e Amministrazione di Studio Professionale | [:arrow_forward:](https://youtu.be/dJvFpDAW24g) | 2016 |
 | Francesco Perino | Studio per la programmazione ottimizzata per la visita turistica della città di torino || 2016 |
 | Francesca Petrocchi | Simulazione	dell’andamento	di	prestiti	e	restituzioni	della	Biblioteca	di	Ingegneria	del	Politecnico	di	Torino |  [:arrow_forward:](https://youtu.be/pHLhgo2HYq8) | 2016 |
