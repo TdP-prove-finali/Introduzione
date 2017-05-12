@@ -15,6 +15,7 @@ La procedura si articola in 4 passi:
  
  | Studente | Titolo | Anno | 
  |---|---|---|
+ | Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | 2017 | 
  | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | 2017 |
  
  # Lavori conclusi
