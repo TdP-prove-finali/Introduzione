@@ -17,6 +17,7 @@ La procedura si articola in 4 passi:
  |---|---|---|
  | Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | 2017 | 
  | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | 2017 |
+ | Arianna Varaldo | [Capacity Management per gli aeroporti dello stato di New York](https://github.com/TdP-prove-finali/VaraldoArianna) | 2017 |
  
  # Lavori conclusi
  
