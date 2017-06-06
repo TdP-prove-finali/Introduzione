@@ -10,14 +10,17 @@ La procedura si articola in 4 passi:
  1. Approvazione della proposta: a questo punto verrà creato un repository GitHub per ospitare il progetto
  1. Svolgimento del lavoro (si consiglia di lavorare in questo repository)
  1. Consegna del risultato, attraverso la consegna su GitHub di tutto il materiale richiesto
+ 
+Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la richieste ufficiale sul Portale della Didattica, al fine della contabilizzazione dei crediti.
 
  # Lavori assegnati
  
- | Studente | Titolo | Anno | 
- |---|---|---|
- | Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | 2017 | 
- | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | 2017 |
- | Arianna Varaldo | [Capacity Management per gli aeroporti dello stato di New York](https://github.com/TdP-prove-finali/VaraldoArianna) | 2017 |
+| Studente | Titolo | Anno | 
+|---|---|---|
+| Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | 2017 | 
+| Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | 2017 |
+| Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | 2017 |
+| Arianna Varaldo | [Capacity Management per gli aeroporti dello stato di New York](https://github.com/TdP-prove-finali/VaraldoArianna) | 2017 |
  
  # Lavori conclusi
  
