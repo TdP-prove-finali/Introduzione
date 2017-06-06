@@ -37,6 +37,8 @@ Il lavoro verrà svolto in autonomia dallo studente. In caso di necessità, i do
 
 Gli strumenti, le tecnologie e le librerie utilizzate potranno essere quelle illustrate durante il corso, ma questo non è un requisito vincolante: in funzione del problema affrontato, si potranno anche adottare soluzioni tecniche diverse, nel rispetto dei vincoli sopra descritti.
 
+Lo sviluppo dovrà essere condotto utilizzando il repository GitHub appositamente creato.
+
 ## Consegna del lavoro
 
 Entro 10 giorni prima della data prevista per la laurea, lo studente dovrà consegnare il lavoro terminato. La consegna deve comprendere:
