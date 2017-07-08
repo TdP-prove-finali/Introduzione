@@ -17,7 +17,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | 2017 | 
 | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | 2017 |
 | Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | 2017 |
  
@@ -25,6 +24,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | | 2017 | 
 | Arianna Varaldo | [Capacity Management per gli aeroporti dello stato di New York](https://github.com/TdP-prove-finali/VaraldoArianna) | [:arrow_forward:](https://youtu.be/YSG2NKjYj8A) | 2017 |
 | Jessica Giardi | [Cash Registers Manager](https://github.com/TdP-prove-finali/GiardiJessica) | [:arrow_forward:](https://youtu.be/1sMY-H0Bwd0) | 2016 |
 | Pietro Martino | [Controllo di Gestione e Amministrazione di Studio Professionale](https://github.com/TdP-prove-finali/MartinoPietro) | [:arrow_forward:](https://youtu.be/dJvFpDAW24g) | 2016 |
