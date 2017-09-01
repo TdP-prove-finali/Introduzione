@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Simone Santia | [Orario scolastico settimanale](https://github.com/TdP-prove-finali/SantiaSimone) | 2017 |
 | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | 2017 |
 | Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | 2017 |
  
