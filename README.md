@@ -17,7 +17,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Dennis Feno | [Analisi del sistema GTFS](https://github.com/TdP-prove-finali/FenoDennis) | 2017 |
 | Simone Santia | [Orario scolastico settimanale](https://github.com/TdP-prove-finali/SantiaSimone) | 2017 |
 | Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | 2017 |
  
@@ -25,6 +24,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Dennis Feno | [Analisi del sistema GTFS](https://github.com/TdP-prove-finali/FenoDennis) | [:arrow_forward:](https://youtu.be/HxUIT9YBhCo) | 2017 |
 | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | [:arrow_forward:](https://youtu.be/_3XGCIhe2JI) | 2017 |
 | Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | | 2017 | 
 | Arianna Varaldo | [Capacity Management per gli aeroporti dello stato di New York](https://github.com/TdP-prove-finali/VaraldoArianna) | [:arrow_forward:](https://youtu.be/YSG2NKjYj8A) | 2017 |
