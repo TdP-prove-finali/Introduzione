@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Stefano Inghilleri | [Workshop management](https://github.com/TdP-prove-finali/InghilleriStefano) | 2017 |
 | Simone Santia | [Orario scolastico settimanale](https://github.com/TdP-prove-finali/SantiaSimone) | 2017 |
 | Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | 2017 |
  
