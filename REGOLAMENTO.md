@@ -25,7 +25,7 @@ Gli studenti che desiderano proporre un argomento per la prova finale dovranno i
 
 Entro una settimana dalla ricezione, la proposta verrà analizzata, accettata o rifiutata (sulla base del soddisfacimento delle caratteristiche sopra esposte e della chiarezza e completezza della proposta compilata). In caso di problemi, sarà possibile interagire (attraverso i messaggi della issue) per migliorare la proposta.
 
-Non appena la proposta sarà approvata, verrà creato un progetto GitHub, da utilizzarsi per lo sviluppo e la consegna del progetto.
+Non appena la proposta sarà approvata, verrà creato un progetto GitHub, da utilizzarsi per lo sviluppo e la consegna del progetto. All'approvazione della proposta, lo studente dovrà fare la *richiesta di inizio prova finale* sul Portale della Didattica.
 
 I lavori sono strettamente personali, non è ammesso svolgerli in gruppo.
 
@@ -53,5 +53,5 @@ Ai fini di massimizzare la possibilità di riuso del materiale prodotto, sia da 
 
 1.	La relazione tecnica sia rilasciata con licenza Creative Commons (preferibilmente BY-NC-SA).
 2.	Il software sia rilasciato con licenza Open Source (preferibilmente Apache 2.0).
-3.	I data-set utilizzati siano accompagnati dalla descrizione della fonte da cui provengono, con indicazione esplicita delle eventuali modalità permesse per un loro riutilizzo e/o ridistribuzione (particolarmente importante nel caso in cui provengano da un’azienda).
+3.	I data-set utilizzati siano accompagnati dalla descrizione della fonte da cui provengono, con indicazione esplicita delle eventuali modalità permesse per un loro riutilizzo e/o ridistribuzione (particolarmente importante nel caso in cui provengano da un’azienda). In particolare, si suggerisce di *anonimizzare* eventuali dati personali o aziendali nella versione del data-set allegato al progetto.
 
