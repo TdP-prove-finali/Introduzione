@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Chiara Pizzato | [Ottimizzazione del portafoglio finanziario](https://github.com/TdP-prove-finali/PizzatoChiara) | 2017 |
 | Rebecca Pelacà | [Previsione domanda futura, MPS, ATP e simulazione ordini extra](https://github.com/TdP-prove-finali/PelacaRebecca) | 2017 |
 | Stefano Inghilleri | [Workshop management](https://github.com/TdP-prove-finali/InghilleriStefano) | 2017 |
 | Simone Santia | [Orario scolastico settimanale](https://github.com/TdP-prove-finali/SantiaSimone) | 2017 |
