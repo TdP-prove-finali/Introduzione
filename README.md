@@ -18,7 +18,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Studente | Titolo | Anno | 
 |---|---|---|
 | Chiara Pizzato | [Ottimizzazione del portafoglio finanziario](https://github.com/TdP-prove-finali/PizzatoChiara) | 2017 |
-| Rebecca Pelacà | [Previsione domanda futura, MPS, ATP e simulazione ordini extra](https://github.com/TdP-prove-finali/PelacaRebecca) | 2017 |
 | Stefano Inghilleri | [Workshop management](https://github.com/TdP-prove-finali/InghilleriStefano) | 2017 |
 | Simone Santia | [Orario scolastico settimanale](https://github.com/TdP-prove-finali/SantiaSimone) | 2017 |
 | Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | 2017 |
@@ -27,6 +26,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Rebecca Pelacà | [Previsione domanda futura, MPS, ATP e simulazione ordini extra](https://github.com/TdP-prove-finali/PelacaRebecca) | [:arrow_forward:](https://youtu.be/O0HTR3qXjLY) | 2018 |
 | Dennis Feno | [Analisi del sistema GTFS](https://github.com/TdP-prove-finali/FenoDennis) | [:arrow_forward:](https://youtu.be/HxUIT9YBhCo) | 2017 |
 | Fabio Molinaris | [La Baionetta Reader](https://github.com/TdP-prove-finali/MolinarisFabio) | [:arrow_forward:](https://youtu.be/_3XGCIhe2JI) | 2017 |
 | Delia Bonfiglio | [Start-up new network trade](https://github.com/TdP-prove-finali/BonfiglioDelia) | | 2017 | 
