@@ -17,13 +17,13 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Stefano Inghilleri | [Workshop management](https://github.com/TdP-prove-finali/InghilleriStefano) | 2017 |
 | Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | 2017 |
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Stefano Inghilleri | [Workshop management](https://github.com/TdP-prove-finali/InghilleriStefano) | [:arrow_forward:](https://youtu.be/gGtVBsaa8IA) | 2018 |
 | Chiara Pizzato | [Ottimizzazione del portafoglio finanziario](https://github.com/TdP-prove-finali/PizzatoChiara) | [:arrow_forward:](https://youtu.be/3_0QfjALV9A) | 2018 |
 | Rebecca Pelacà | [Previsione domanda futura, MPS, ATP e simulazione ordini extra](https://github.com/TdP-prove-finali/PelacaRebecca) | [:arrow_forward:](https://youtu.be/O0HTR3qXjLY) | 2018 |
 | Simone Santia | [Orario scolastico settimanale](https://github.com/TdP-prove-finali/SantiaSimone) | [:arrow_forward:](https://youtu.be/-A9aZ2p5A3Q) | 2018 |
