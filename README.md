@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Catalin Stefan Maris | [Simulazione linea di produzione industriale](https://github.com/TdP-prove-finali/MarisCatalinStefan) | 2018 |
  
  # Lavori conclusi
  
