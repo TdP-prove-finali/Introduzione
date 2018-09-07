@@ -18,13 +18,13 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Studente | Titolo | Anno | 
 |---|---|---|
 | Catalin Stefan Maris | [Simulazione linea di produzione industriale](https://github.com/TdP-prove-finali/MarisCatalinStefan) | 2018 |
-| Forcignanò Walter | [Cammini minimi dei Taxi all'interno della città di New York](https://github.com/TdP-prove-finali/ForcignanoWalter) | 2018 |
 
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Forcignanò Walter | [Cammini minimi dei Taxi all'interno della città di New York](https://github.com/TdP-prove-finali/ForcignanoWalter)| [:arrow_forward:](https://youtu.be/0sDKVsnell4) | 2018 |
 | Marco Clemente Nanci | [Centrale Telefonica](https://github.com/TdP-prove-finali/NanciMarcoClemente) | [:arrow_forward:](https://youtu.be/3NZ_rHV30do) | 2018 |
 | Stefano Inghilleri | [Workshop management](https://github.com/TdP-prove-finali/InghilleriStefano) | [:arrow_forward:](https://youtu.be/gGtVBsaa8IA) | 2018 |
 | Chiara Pizzato | [Ottimizzazione del portafoglio finanziario](https://github.com/TdP-prove-finali/PizzatoChiara) | [:arrow_forward:](https://youtu.be/3_0QfjALV9A) | 2018 |
