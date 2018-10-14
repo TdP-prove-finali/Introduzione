@@ -17,7 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Errigo Eugenio Simone | Assistenza hotspot Wi-Fi pubblici della città di New York | 2018 |
+| Errigo Eugenio Simone | [Assistenza hotspot Wi-Fi pubblici della città di New York](https://github.com/TdP-prove-finali/ErrigoEugenioSimone) | 2018 |
 
  
  # Lavori conclusi
