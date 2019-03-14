@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Nicola Montaleone | [Gestione contabilità direzionale di tecnici in un azienda di servizi](https://github.com/TdP-prove-finali/MontaleoneNicola) | 2019 |
 
  
  # Lavori conclusi
