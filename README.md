@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Baldo Alessandro | [Tool per la Gestione della Mobilità Elettrica](https://github.com/TdP-prove-finali/BaldoAlessandro) | 2019 |
 | Arianna Ravera | [Previsione e gestione dell’occupazione dei posti letto in una struttura ospedaliera](https://github.com/TdP-prove-finali/RaveraArianna) | 2019 |
 | Chiara Lanza | [Ottimizzazione di un corredino in base al budget](https://github.com/TdP-prove-finali/LanzaChiara) | 2019 |
 | Nicola Montaleone | [Gestione contabilità direzionale di tecnici in un azienda di servizi](https://github.com/TdP-prove-finali/MontaleoneNicola) | 2019 |
