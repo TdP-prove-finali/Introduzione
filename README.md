@@ -17,7 +17,9 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Campaniono Nicolò Flavio | [Promozione di nuovi supermarket](https://github.com/TdP-prove-finali/CampanioloNicoloFlavio) | 2019 |
+| Fiorio Plà Paolo | [Ottimizzazione della rosa nel Fantacalcio](https://github.com/TdP-prove-finali/FiorioPlaPaolo) | 2019 |
+| Herashchenko Oleksandr | [Tool per Società Calcistica](https://github.com/TdP-prove-finali/HerashchenkoOleksandr) | 2019 |
+| Campaniolo Nicolò Flavio | [Promozione di nuovi supermarket](https://github.com/TdP-prove-finali/CampanioloNicoloFlavio) | 2019 |
 | Baldo Alessandro | [Tool per la Gestione della Mobilità Elettrica](https://github.com/TdP-prove-finali/BaldoAlessandro) | 2019 |
 | Arianna Ravera | [Previsione e gestione dell’occupazione dei posti letto in una struttura ospedaliera](https://github.com/TdP-prove-finali/RaveraArianna) | 2019 |
 | Chiara Lanza | [Ottimizzazione di un corredino in base al budget](https://github.com/TdP-prove-finali/LanzaChiara) | 2019 |
