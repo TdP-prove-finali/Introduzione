@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Serra Alessio | [Applicazione per software house dell'industria videoludica](https://github.com/TdP-prove-finali/SerraAlessio) | 2019 |
 | Mascarello Andrea | [Gestione dati clienti e ottimizzazione corsi de "Il Teatrino"](https://github.com/TdP-prove-finali/MascarelloAndrea) | 2019 |
 | Fiorio Plà Paolo | [Ottimizzazione della rosa nel Fantacalcio](https://github.com/TdP-prove-finali/FiorioPlaPaolo) | 2019 |
 | Herashchenko Oleksandr | [Tool per Società Calcistica](https://github.com/TdP-prove-finali/HerashchenkoOleksandr) | 2019 |
