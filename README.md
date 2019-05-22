@@ -25,13 +25,13 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Baldo Alessandro | [Tool per la Gestione della Mobilità Elettrica](https://github.com/TdP-prove-finali/BaldoAlessandro) | 2019 |
 | Arianna Ravera | [Previsione e gestione dell’occupazione dei posti letto in una struttura ospedaliera](https://github.com/TdP-prove-finali/RaveraArianna) | 2019 |
 | Chiara Lanza | [Ottimizzazione di un corredino in base al budget](https://github.com/TdP-prove-finali/LanzaChiara) | 2019 |
-| Nicola Montaleone | [Gestione contabilità direzionale di tecnici in un azienda di servizi](https://github.com/TdP-prove-finali/MontaleoneNicola) | 2019 |
 
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Nicola Montaleone | [Gestione contabilità direzionale di tecnici in un azienda di servizi](https://github.com/TdP-prove-finali/MontaleoneNicola) | [:arrow_forward:](https://youtu.be/P-b95WS-11M) | 2019 |
 | Errigo Eugenio Simone | [Assistenza hotspot Wi-Fi pubblici della città di New York](https://github.com/TdP-prove-finali/ErrigoEugenioSimone) | [:arrow_forward:](https://youtu.be/gan-8BJPSCY) | 2019 |
 | Catalin Stefan Maris | [Simulazione linea di produzione industriale](https://github.com/TdP-prove-finali/MarisCatalinStefan) | [:arrow_forward:](https://youtu.be/R8zKCDeP_DA) | 2018 |
 | Forcignanò Walter | [Cammini minimi dei Taxi all'interno della città di New York](https://github.com/TdP-prove-finali/ForcignanoWalter)| [:arrow_forward:](https://youtu.be/0sDKVsnell4) | 2018 |
