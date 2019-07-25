@@ -20,12 +20,12 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Riccardo Baldassa | [Programmazione dei turni lavorativi del personale infermieristico in un reparto ospedaliero](https://github.com/TdP-prove-finali/BaldassaRiccardo) | 2019 |
 | Alessio Serra | [Applicazione per software house dell'industria videoludica](https://github.com/TdP-prove-finali/SerraAlessio) | 2019 |
 | Andrea Mascarello | [Gestione dati clienti e ottimizzazione corsi de "Il Teatrino"](https://github.com/TdP-prove-finali/MascarelloAndrea) | 2019 |
-| Paolo Fiorio Plà  | [Ottimizzazione della rosa nel Fantacalcio](https://github.com/TdP-prove-finali/FiorioPlaPaolo) | 2019 |
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Paolo Fiorio Plà  | [Ottimizzazione della rosa nel Fantacalcio](https://github.com/TdP-prove-finali/FiorioPlaPaolo) | [:arrow_forward:](https://youtu.be/BlHlJ9Iz6aw) | 2019 |
 | Oleksandr Herashchenko | [Tool per Società Calcistica](https://github.com/TdP-prove-finali/HerashchenkoOleksandr) | [:arrow_forward:](https://youtu.be/UvMhBUyKIBQ) | 2019 |
 | Nicolò Flavio Campaniolo | [Promozione di nuovi supermarket](https://github.com/TdP-prove-finali/CampanioloNicoloFlavio) | [:arrow_forward:](https://youtu.be/gTzpEZ_B_dM) | 2019 |
 | Arianna Ravera | [Previsione e gestione dell’occupazione dei posti letto in una struttura ospedaliera](https://github.com/TdP-prove-finali/RaveraArianna) | [:arrow_forward:](https://youtu.be/x6ZqOJjrP3Q) | 2019 |
