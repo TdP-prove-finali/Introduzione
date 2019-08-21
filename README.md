@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Mazzocco Fabio | [Statistical due date for customers satisfaction](https://github.com/TdP-prove-finali/MazzoccoFabio) | 2019 |
 | Berteletti Ruben | [Simulatore playoff NBA](https://github.com/TdP-prove-finali/BertelettiRuben) | 2019 |
 | Riccardo Baldassa | [Programmazione dei turni lavorativi del personale infermieristico in un reparto ospedaliero](https://github.com/TdP-prove-finali/BaldassaRiccardo) | 2019 |
 | Alessio Serra | [Applicazione per software house dell'industria videoludica](https://github.com/TdP-prove-finali/SerraAlessio) | 2019 |
