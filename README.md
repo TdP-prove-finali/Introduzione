@@ -19,7 +19,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 |---|---|---|
 | Davide Visconti | [Gestione e ottimizzazione di un evento culinario in agriturismo](https://github.com/TdP-prove-finali/ViscontiDavide) | 2019 |
 | Fabio Mazzocco | [Statistical due date for customers satisfaction](https://github.com/TdP-prove-finali/MazzoccoFabio) | 2019 |
-| Ruben Berteletti | [Simulatore playoff NBA](https://github.com/TdP-prove-finali/BertelettiRuben) | 2019 |
 | Alessio Serra | [Applicazione per software house dell'industria videoludica](https://github.com/TdP-prove-finali/SerraAlessio) | 2019 |
 | Andrea Mascarello | [Gestione dati clienti e ottimizzazione corsi de "Il Teatrino"](https://github.com/TdP-prove-finali/MascarelloAndrea) | 2019 |
  
@@ -27,6 +26,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Ruben Berteletti | [Simulatore playoff NBA](https://github.com/TdP-prove-finali/BertelettiRuben) | [:arrow_forward:](https://youtu.be/l4M1tCTtI_s) | 2019 |
 | Riccardo Baldassa | [Programmazione dei turni lavorativi del personale infermieristico in un reparto ospedaliero](https://github.com/TdP-prove-finali/BaldassaRiccardo) | [:arrow_forward:](https://youtu.be/oSuclnxECWM) | 2019 |
 | Paolo Fiorio Plà  | [Ottimizzazione della rosa nel Fantacalcio](https://github.com/TdP-prove-finali/FiorioPlaPaolo) | [:arrow_forward:](https://youtu.be/BlHlJ9Iz6aw) | 2019 |
 | Oleksandr Herashchenko | [Tool per Società Calcistica](https://github.com/TdP-prove-finali/HerashchenkoOleksandr) | [:arrow_forward:](https://youtu.be/UvMhBUyKIBQ) | 2019 |
