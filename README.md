@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Adriana Provenzano | [Gestione delle agenzie viaggi realizzato per una struttura alberghiera](https://github.com/TdP-prove-finali/ProvenzanoAdriana) | 2019 |
 | Elia Daniotti | [Programmazione percorso safari nella Riserva naturale Masai Mara, Kenya](https://github.com/TdP-prove-finali/DaniottiElia) | 2019 |
 | Ghassane Ben El Aattar | [Analisi di percorsi tra aeroporti americani](https://github.com/TdP-prove-finali/BenElAattarGhassane) | 2019 |
 | Andrea Mascarello | [Gestione dati clienti e ottimizzazione corsi de "Il Teatrino"](https://github.com/TdP-prove-finali/MascarelloAndrea) | 2019 |
