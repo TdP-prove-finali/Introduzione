@@ -17,8 +17,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Adriana Provenzano | [Gestione delle agenzie viaggi realizzato per una struttura alberghiera](https://github.com/TdP-prove-finali/ProvenzanoAdriana) | 2019 |
-| Elia Daniotti | [Programmazione percorso safari nella Riserva naturale Masai Mara, Kenya](https://github.com/TdP-prove-finali/DaniottiElia) | 2019 |
 | Ghassane Ben El Aattar | [Analisi di percorsi tra aeroporti americani](https://github.com/TdP-prove-finali/BenElAattarGhassane) | 2019 |
 | Andrea Mascarello | [Gestione dati clienti e ottimizzazione corsi de "Il Teatrino"](https://github.com/TdP-prove-finali/MascarelloAndrea) | 2019 |
  
@@ -26,6 +24,8 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Adriana Provenzano | [Gestione delle agenzie viaggi realizzato per una struttura alberghiera](https://github.com/TdP-prove-finali/ProvenzanoAdriana) | [:arrow_forward:](https://youtu.be/BoCXf0PKGb0) | 2020 |
+| Elia Daniotti | [Programmazione percorso safari nella Riserva naturale Masai Mara, Kenya](https://github.com/TdP-prove-finali/DaniottiElia) | [:arrow_forward:](https://youtu.be/mOa_aMGnpXA) | 2020 |
 | Davide Visconti | [Gestione e ottimizzazione di un evento culinario in agriturismo](https://github.com/TdP-prove-finali/ViscontiDavide) | [:arrow_forward:](https://youtu.be/oJTZviR0F7k) | 2019 |
 | Fabio Mazzocco | [Statistical due date for customers satisfaction](https://github.com/TdP-prove-finali/MazzoccoFabio) | [:arrow_forward:](https://youtu.be/22U4bR31KPo) | 2019 |
 | Alessio Serra | [Applicazione per software house dell'industria videoludica](https://github.com/TdP-prove-finali/SerraAlessio)  | [:arrow_forward:](https://youtu.be/miM3XS6t82Y) | 2019 |
