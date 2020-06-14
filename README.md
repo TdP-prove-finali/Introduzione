@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Rizzi Matteo | [Tool per organizzatore di festival di musica dal vivo](https://github.com/TdP-prove-finali/RizziMatteo) | 2020 |
 | Colongo Augusto | [LATE (Lightweight Airport Testing Environment)](https://github.com/TdP-prove-finali/ColongoAugusto) | 2020 |
 | Alberto De Benedictis | [Tool per la risoluzione automatica di Sfide Creazione Rosa FIFA](https://github.com/TdP-prove-finali/DeBenedictisAlberto) | 2020 |
 | Ghassane Ben El Aattar | [Analisi di percorsi tra aeroporti americani](https://github.com/TdP-prove-finali/BenElAattarGhassane) | 2019 |
