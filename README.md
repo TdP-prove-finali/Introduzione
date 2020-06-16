@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Panebianco Omar | [Simulatore Serie A post Covid-19](https://github.com/TdP-prove-finali/PanebiancoOmar) | 2020 |
 | Ferrari Umberto | [Applicazione per la gestione di un servizio di bike sharing](https://github.com/TdP-prove-finali/FerrariUmberto) | 2020 |
 | Delleani Mattia | [Applicazione per gestione itinerario e tempo in una giornata di sci](https://github.com/TdP-prove-finali/DelleaniMattia) | 2020 |
 | Rizzi Matteo | [Tool per organizzatore di festival di musica dal vivo](https://github.com/TdP-prove-finali/RizziMatteo) | 2020 |
