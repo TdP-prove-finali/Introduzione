@@ -20,7 +20,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Ferrari Umberto | [Applicazione per la gestione di un servizio di bike sharing](https://github.com/TdP-prove-finali/FerrariUmberto) | 2020 |
 | Delleani Mattia | [Applicazione per gestione itinerario e tempo in una giornata di sci](https://github.com/TdP-prove-finali/DelleaniMattia) | 2020 |
 | Rizzi Matteo | [Tool per organizzatore di festival di musica dal vivo](https://github.com/TdP-prove-finali/RizziMatteo) | 2020 |
-| Colongo Augusto | [LATE (Lightweight Airport Testing Environment)](https://github.com/TdP-prove-finali/ColongoAugusto) | 2020 |
 | Alberto De Benedictis | [Tool per la risoluzione automatica di Sfide Creazione Rosa FIFA](https://github.com/TdP-prove-finali/DeBenedictisAlberto) | 2020 |
 | Ghassane Ben El Aattar | [Analisi di percorsi tra aeroporti americani](https://github.com/TdP-prove-finali/BenElAattarGhassane) | 2019 |
 | Andrea Mascarello | [Gestione dati clienti e ottimizzazione corsi de "Il Teatrino"](https://github.com/TdP-prove-finali/MascarelloAndrea) | 2019 |
@@ -29,6 +28,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Colongo Augusto | [LATE (Lightweight Airport Testing Environment)](https://github.com/TdP-prove-finali/ColongoAugusto) | [:arrow_forward:](https://youtu.be/8avVS5Ll5BM) | 2020 |
 | Panebianco Omar | [Simulatore Serie A post Covid-19](https://github.com/TdP-prove-finali/PanebiancoOmar) | [:arrow_forward:](https://youtu.be/0ihUSEDus1w) | 2020 |
 | Adriana Provenzano | [Gestione delle agenzie viaggi realizzato per una struttura alberghiera](https://github.com/TdP-prove-finali/ProvenzanoAdriana) | [:arrow_forward:](https://youtu.be/BoCXf0PKGb0) | 2020 |
 | Elia Daniotti | [Programmazione percorso safari nella Riserva naturale Masai Mara, Kenya](https://github.com/TdP-prove-finali/DaniottiElia) | [:arrow_forward:](https://youtu.be/mOa_aMGnpXA) | 2020 |
