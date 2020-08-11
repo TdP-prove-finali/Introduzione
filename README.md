@@ -2,7 +2,7 @@
 
 Per coloro che intendono svolgere la prova finale relativamente alle tematiche trattate nel corso di Tecniche di Programmazione, ho definito delle modalità che mirano a sviluppare un'esperienza pratica e formativa, ed allo stesso tempo riducano al minimo gli aspetti formali e burocratici, lasciando spazio allo sviluppo e sperimentazione software.
 
-La procedura si articola in 4 passi:
+La procedura si articola in 6 passi:
 
  1. [Visionare il "regolamento"](REGOLAMENTO.md) per lo svolgimento delle prove finali relative al corso di Tecniche di Programmazione
  1. Presentazione di una proposta da parte dello studente ([creando una nuova Issue](https://github.com/TdP-prove-finali/Introduzione/issues/new) su questo progetto GitHub)
@@ -11,7 +11,7 @@ La procedura si articola in 4 passi:
  1. Svolgimento del lavoro (si consiglia di lavorare in questo repository)
  1. Consegna del risultato, attraverso la consegna su GitHub di tutto il materiale richiesto
  
-Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la richieste ufficiale sul Portale della Didattica, al fine della contabilizzazione dei crediti.
+Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la richieste ufficiale sul Portale della Didattica (la richiesta di tesi al momento dell'approvazione della proposta, e la richiesta di valutazione finale, contestuale alla consegna del risultato), al fine della contabilizzazione dei crediti.
 
  # Lavori assegnati
  
