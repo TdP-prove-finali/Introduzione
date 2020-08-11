@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Pulita | Marco | [Planner logistico per ritiro e consegna di buste leggere con droni](https://github.com/TdP-prove-finali/PulitaMarco) | 2020 |
 | Palmisano Vito | [Creazione di un'applicazione per il turismo della regione Puglia](https://github.com/TdP-prove-finali/PalmisanoVito) | 2020 |
 | De Carne Walter | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) | 2020 |
 | Ferrari Umberto | [Applicazione per la gestione di un servizio di bike sharing](https://github.com/TdP-prove-finali/FerrariUmberto) | 2020 |
