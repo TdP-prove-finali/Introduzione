@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Alberto Villa | [Pasto’ improving post covid](https://github.com/TdP-prove-finali/VillaAlberto) | 2020 |
 | Marcello Zampella | [Applicazione per cammino minimo azienda di trasporti AMAT](https://github.com/TdP-prove-finali/ZampellaMarcello) | 2020 |
 | Luca Debernardi | [Quarantine Simulator](https://github.com/TdP-prove-finali/DebernardiLuca) | 2020 |
 | Pulita Marco | [Planner logistico per ritiro e consegna di buste leggere con droni](https://github.com/TdP-prove-finali/PulitaMarco) | 2020 |
