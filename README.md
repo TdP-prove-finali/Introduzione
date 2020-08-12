@@ -27,13 +27,13 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Umberto Ferrari | [Applicazione per la gestione di un servizio di bike sharing](https://github.com/TdP-prove-finali/FerrariUmberto) | 2020 |
 | Mattia Delleani  | [Applicazione per gestione itinerario e tempo in una giornata di sci](https://github.com/TdP-prove-finali/DelleaniMattia) | 2020 |
 | Matteo Rizzi  | [Tool per organizzatore di festival di musica dal vivo](https://github.com/TdP-prove-finali/RizziMatteo) | 2020 |
-| Alberto De Benedictis | [Tool per la risoluzione automatica di Sfide Creazione Rosa FIFA](https://github.com/TdP-prove-finali/DeBenedictisAlberto) | 2020 |
 | Ghassane Ben El Aattar | [Analisi di percorsi tra aeroporti americani](https://github.com/TdP-prove-finali/BenElAattarGhassane) | 2019 |
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Alberto De Benedictis | [Tool per la risoluzione automatica di Sfide Creazione Rosa FIFA](https://github.com/TdP-prove-finali/DeBenedictisAlberto) | [:arrow_forward:](https://youtu.be/fsktwU4-mu4) | 2020 |
 | Augusto Colongo  | [LATE (Lightweight Airport Testing Environment)](https://github.com/TdP-prove-finali/ColongoAugusto) | [:arrow_forward:](https://youtu.be/8avVS5Ll5BM) | 2020 |
 | Omar Panebianco  | [Simulatore Serie A post Covid-19](https://github.com/TdP-prove-finali/PanebiancoOmar) | [:arrow_forward:](https://youtu.be/0ihUSEDus1w) | 2020 |
 | Adriana Provenzano | [Gestione delle agenzie viaggi realizzato per una struttura alberghiera](https://github.com/TdP-prove-finali/ProvenzanoAdriana) | [:arrow_forward:](https://youtu.be/BoCXf0PKGb0) | 2020 |
