@@ -19,7 +19,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 |---|---|---|
 | Salvatore Dipace | [Collezionisti LEGO - gestione magazzino](https://github.com/TdP-prove-finali/DipaceSalvatore) | 2020 |
 | Alessio Soru | [Strumento per la valutazione e la selezione d’investimenti nel mercato immobiliare](https://github.com/TdP-prove-finali/SoruAlessio) | 2020 |
-| Marcello Zampella | [Applicazione per cammino minimo azienda di trasporti AMAT](https://github.com/TdP-prove-finali/ZampellaMarcello) | 2020 |
 | Marco Pulita | [Planner logistico per ritiro e consegna di buste leggere con droni](https://github.com/TdP-prove-finali/PulitaMarco) | 2020 |
 | Vito Palmisano | [Creazione di un'applicazione per il turismo della regione Puglia](https://github.com/TdP-prove-finali/PalmisanoVito) | 2020 |
 | Walter De Carne | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) | 2020 |
@@ -29,6 +28,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Marcello Zampella | [Applicazione per cammino minimo azienda di trasporti AMAT](https://github.com/TdP-prove-finali/ZampellaMarcello) | [:arrow_forward:](https://youtu.be/x3bLajvsfnk) | 2020 |
 | Alberto Villa | [Pasto’ improving post covid](https://github.com/TdP-prove-finali/VillaAlberto) | [:arrow_forward:](https://youtu.be/NY82GyBmRvc) | 2020 |
 | Luca Debernardi | [Quarantine Simulator](https://github.com/TdP-prove-finali/DebernardiLuca) | [:arrow_forward:](https://youtu.be/bRDcXdKuuVo) | 2020 |
 | Matteo Rizzi  | [Tool per organizzatore di festival di musica dal vivo](https://github.com/TdP-prove-finali/RizziMatteo) | [:arrow_forward:](https://youtu.be/oGdNnVZf9ms) | 2020 |
