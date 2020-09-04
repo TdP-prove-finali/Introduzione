@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Jacopo Dylan Badino | [Applicazione per creare la rosa perfetta del Fantacalcio](https://github.com/TdP-prove-finali/BadinoJacopoDylan) | 2020 |
 | Salvatore Dipace | [Collezionisti LEGO - gestione magazzino](https://github.com/TdP-prove-finali/DipaceSalvatore) | 2020 |
 | Alessio Soru | [Strumento per la valutazione e la selezione d’investimenti nel mercato immobiliare](https://github.com/TdP-prove-finali/SoruAlessio) | 2020 |
 | Marco Pulita | [Planner logistico per ritiro e consegna di buste leggere con droni](https://github.com/TdP-prove-finali/PulitaMarco) | 2020 |
