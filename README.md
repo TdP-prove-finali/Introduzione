@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Torta Roberto | [Dashboard Dati Covid-19 Italia](https://github.com/TdP-prove-finali/TortaRoberto) | 2020 |
 | Salvatore Dipace | [Collezionisti LEGO - gestione magazzino](https://github.com/TdP-prove-finali/DipaceSalvatore) | 2020 |
 | Alessio Soru | [Strumento per la valutazione e la selezione d’investimenti nel mercato immobiliare](https://github.com/TdP-prove-finali/SoruAlessio) | 2020 |
 | Walter De Carne | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) | 2020 |
