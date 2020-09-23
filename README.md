@@ -19,13 +19,13 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 |---|---|---|
 | Torta Roberto | [Dashboard Dati Covid-19 Italia](https://github.com/TdP-prove-finali/TortaRoberto) | 2020 |
 | Salvatore Dipace | [Collezionisti LEGO - gestione magazzino](https://github.com/TdP-prove-finali/DipaceSalvatore) | 2020 |
-| Alessio Soru | [Strumento per la valutazione e la selezione d’investimenti nel mercato immobiliare](https://github.com/TdP-prove-finali/SoruAlessio) | 2020 |
 | Walter De Carne | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) | 2020 |
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Alessio Soru | [Strumento per la valutazione e la selezione d’investimenti nel mercato immobiliare](https://github.com/TdP-prove-finali/SoruAlessio) | [:arrow_forward:](https://youtu.be/4aS6xF70N2k) | 2020 |
 | Jacopo Dylan Badino | [Applicazione per creare la rosa perfetta del Fantacalcio](https://github.com/TdP-prove-finali/BadinoJacopoDylan) | [:arrow_forward:](https://youtu.be/1SDvpNchbGc) | 2020 |
 | Ghassane Ben El Aattar | [Analisi di percorsi tra aeroporti americani](https://github.com/TdP-prove-finali/BenElAattarGhassane) | [:arrow_forward:](https://youtu.be/V37lMEQDo-w) | 2020 |
 | Marco Pulita | [Planner logistico per ritiro e consegna di buste leggere con droni](https://github.com/TdP-prove-finali/PulitaMarco) | [:arrow_forward:](https://youtu.be/KFrcnZi_y8Q) | 2020 |
