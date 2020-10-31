@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Antonio Monteleone | [Previsione per gestione mezzi di trasporto rifiuti](https://github.com/TdP-prove-finali/MonteleoneAntonio) | 2020 |
 | Salvatore Dipace | [Collezionisti LEGO - gestione magazzino](https://github.com/TdP-prove-finali/DipaceSalvatore) | 2020 |
 | Walter De Carne | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) | 2020 |
  
