@@ -17,7 +17,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Enrico Marando | [Organizzazione reale di un magazzino "irreale"](https://github.com/TdP-prove-finali/MarandoEnrico) | 2020 |
 | Enrico Ciuffreda | [Applicazione per simulazione campionato F1](https://github.com/TdP-prove-finali/CiuffredaEnrico) | 2020 |
 | Walter De Carne | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) | 2020 |
  
@@ -25,6 +24,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Enrico Marando | [Organizzazione reale di un magazzino "irreale"](https://github.com/TdP-prove-finali/MarandoEnrico) | [:arrow_forward:](https://youtu.be/HQ-nCIqlmV0) | 2021 |
 | Antonio Monteleone | [Previsione per gestione mezzi di trasporto rifiuti](https://github.com/TdP-prove-finali/MonteleoneAntonio) | [:arrow_forward:](https://youtu.be/zkENjoJUAVE) | 2020 |
 | Salvatore Dipace | [Collezionisti LEGO - gestione magazzino](https://github.com/TdP-prove-finali/DipaceSalvatore) | [:arrow_forward:](https://youtu.be/JzkvN3o1dbM) | 2020 |
 | Torta Roberto | [Dashboard Dati Covid-19 Italia](https://github.com/TdP-prove-finali/TortaRoberto) | [:arrow_forward:](https://youtu.be/xvOfxPU52gg) | 2020 |
