@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Davide Agostini | [Simulazione per trasporto di merci su gomma su scala regionale](https://github.com/TdP-prove-finali/AgostiniDavide) | 2021 |
 | Davide Balossino | [Applicazione per la gestione di una squadra NBA](https://github.com/TdP-prove-finali/BalossinoDavide) | 2021 |
 | Enrico Ciuffreda | [Applicazione per simulazione campionato F1](https://github.com/TdP-prove-finali/CiuffredaEnrico) | 2020 |
 | Walter De Carne | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) | 2020 |
