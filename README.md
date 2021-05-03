@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
 | Davide Agostini | [Simulazione per trasporto di merci su gomma su scala regionale](https://github.com/TdP-prove-finali/AgostiniDavide) | 2021 |
 | Davide Balossino | [Applicazione per la gestione di una squadra NBA](https://github.com/TdP-prove-finali/BalossinoDavide) | 2021 |
  
