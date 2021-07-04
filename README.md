@@ -17,15 +17,15 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Gianmaria Navissano | [Tool per job placement](https://github.com/TdP-prove-finali/NavissanoGianmaria) | 2021 |
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
-| Davide Agostini | [Simulazione per trasporto di merci su gomma su scala regionale](https://github.com/TdP-prove-finali/AgostiniDavide) | 2021 |
 | Davide Balossino | [Applicazione per la gestione di una squadra NBA](https://github.com/TdP-prove-finali/BalossinoDavide) | 2021 |
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Gianmaria Navissano | [Tool per job placement](https://github.com/TdP-prove-finali/NavissanoGianmaria) | [:arrow_forward:](https://youtu.be/9bTc8BW3bDY) | 2021 |
+| Davide Agostini | [Simulazione per trasporto di merci su gomma su scala regionale](https://github.com/TdP-prove-finali/AgostiniDavide) | [:arrow_forward:](https://youtu.be/MHyL_SAqDWc)| 2021 |
 | Enrico Ciuffreda | [Applicazione per simulazione campionato F1](https://github.com/TdP-prove-finali/CiuffredaEnrico) | [:arrow_forward:](https://youtu.be/sgw8gFQJ-VA) | 2021 |
 | Walter De Carne | [Sviluppo di un software per la generazione automatica di una playlist musicale](https://github.com/TdP-prove-finali/DeCarneWalter) |  [:arrow_forward:](https://youtu.be/fIzCuRuCNtk) | 2021 |
 | Enrico Marando | [Organizzazione reale di un magazzino "irreale"](https://github.com/TdP-prove-finali/MarandoEnrico) | [:arrow_forward:](https://youtu.be/HQ-nCIqlmV0) | 2021 |
