@@ -17,6 +17,8 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Davide Borgatta | [Applicazione per la creazione squadra Ultimate Team (FIFA)](https://github.com/TdP-prove-finali/BorgattaDavide) | 2021 |
+| Federico Manzetti | [Applicazione per la gestione e l’ottimizzazione delle prestazioni di una linea di produzione industriale](https://github.com/TdP-prove-finali/ManzettiFederico) | 2021 |
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
 | Davide Balossino | [Applicazione per la gestione di una squadra NBA](https://github.com/TdP-prove-finali/BalossinoDavide) | 2021 |
  
