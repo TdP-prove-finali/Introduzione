@@ -17,8 +17,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Simone Muraro | [Simulazione ed analisi progetto bag-sharing](https://github.com/TdP-prove-finali/MuraroSimone) | 2021 |
-| Davide Borgatta | [Applicazione per la creazione squadra Ultimate Team (FIFA)](https://github.com/TdP-prove-finali/BorgattaDavide) | 2021 |
 | Federico Manzetti | [Applicazione per la gestione e l’ottimizzazione delle prestazioni di una linea di produzione industriale](https://github.com/TdP-prove-finali/ManzettiFederico) | 2021 |
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
  
@@ -26,6 +24,8 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Simone Muraro | [Simulazione ed analisi progetto bag-sharing](https://github.com/TdP-prove-finali/MuraroSimone) |  [:arrow_forward:](https://youtu.be/jmUEDCQFCsw) | 2021 |
+| Davide Borgatta | [Applicazione per la creazione squadra Ultimate Team (FIFA)](https://github.com/TdP-prove-finali/BorgattaDavide) |  [:arrow_forward:](https://youtu.be/3_Zu0uQcVVM) | 2021 |
 | Davide Balossino | [Applicazione per la gestione di una squadra NBA](https://github.com/TdP-prove-finali/BalossinoDavide) | [:arrow_forward:](https://youtu.be/LlAYycsrcpQ) | 2021 |
 | Gianmaria Navissano | [Tool per job placement](https://github.com/TdP-prove-finali/NavissanoGianmaria) | [:arrow_forward:](https://youtu.be/9bTc8BW3bDY) | 2021 |
 | Davide Agostini | [Simulazione per trasporto di merci su gomma su scala regionale](https://github.com/TdP-prove-finali/AgostiniDavide) | [:arrow_forward:](https://youtu.be/MHyL_SAqDWc)| 2021 |
