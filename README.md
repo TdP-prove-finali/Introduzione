@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Emanuele De Leo | [Simulatore di trasporto merci](https://github.com/TdP-prove-finali/DeLeoEmanuele) | 2022 |
 | Federico Manzetti | [Applicazione per la gestione e l’ottimizzazione delle prestazioni di una linea di produzione industriale](https://github.com/TdP-prove-finali/ManzettiFederico) | 2021 |
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
  
