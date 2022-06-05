@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) | 2022 |
 | Lorenzo Canini | [Simulazione di un anno scolastico](https://github.com/TdP-prove-finali/CaniniLorenzo) | 2022 |
 | Roberta De Seriis | [Applicazione per la valutazione e selezione della risorsa energetica idonea alla realizzazione di CER (Comunità energetiche rinnovabili)](https://github.com/TdP-prove-finali/DeSeriisRoberta) | 2022 |
 | Emanuele De Leo | [Simulatore di trasporto merci](https://github.com/TdP-prove-finali/DeLeoEmanuele) | 2022 |
