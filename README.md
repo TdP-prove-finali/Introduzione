@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) | 2022 |
 | Filippo Castellarin | [Applicazione Java per il calcolo di un itinerario Interrail](https://github.com/TdP-prove-finali/CastellarinFilippo) | 2022 |
 | Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) | 2022 |
 | Lorenzo Canini | [Simulazione di un anno scolastico](https://github.com/TdP-prove-finali/CaniniLorenzo) | 2022 |
