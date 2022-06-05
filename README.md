@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
 | Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) | 2022 |
 | Filippo Castellarin | [Applicazione Java per il calcolo di un itinerario Interrail](https://github.com/TdP-prove-finali/CastellarinFilippo) | 2022 |
 | Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) | 2022 |
@@ -30,7 +31,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
-| Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
 | Simone Muraro | [Simulazione ed analisi progetto bag-sharing](https://github.com/TdP-prove-finali/MuraroSimone) |  [:arrow_forward:](https://youtu.be/jmUEDCQFCsw) | 2021 |
 | Davide Borgatta | [Applicazione per la creazione squadra Ultimate Team (FIFA)](https://github.com/TdP-prove-finali/BorgattaDavide) |  [:arrow_forward:](https://youtu.be/3_Zu0uQcVVM) | 2021 |
 | Davide Balossino | [Applicazione per la gestione di una squadra NBA](https://github.com/TdP-prove-finali/BalossinoDavide) | [:arrow_forward:](https://youtu.be/LlAYycsrcpQ) | 2021 |
