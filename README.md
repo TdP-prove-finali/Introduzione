@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Filippo Maria Simone D'Anna | [“Plan Your Tour” Tour personalizzati nel National Gallery of Art di Washington D.C.](https://github.com/TdP-prove-finali/DAnnaFilippoMariaSimone) | 2022 |
 | Leonardo Priami | [Applicazione per la simulazione dei formati limited di magic: the gathering e conseguente ottimizzazione del mazzo](https://github.com/TdP-prove-finali/PriamiLeonardo) | 2022 |
 | Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
 | Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) | 2022 |
