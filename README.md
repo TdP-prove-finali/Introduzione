@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Matteo Busnelli | [Simulazione Superlega](https://github.com/TdP-prove-finali/BusnelliMatteo) | 2022 |
 | Alessandro Maturo | [Tool per le simulazioni di mercato di una rosa calcistica](https://github.com/TdP-prove-finali/MaturoAlessandro) | 2022 |
 | Destiny Okpekpe | [Simulazione e gestione flussi migratori](https://github.com/TdP-prove-finali/OkpekpeDestiny) | 2022 |
 | Filippo Maria Simone D'Anna | [“Plan Your Tour” Tour personalizzati nel National Gallery of Art di Washington D.C.](https://github.com/TdP-prove-finali/DAnnaFilippoMariaSimone) | 2022 |
