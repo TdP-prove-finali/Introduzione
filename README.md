@@ -25,7 +25,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Destiny Okpekpe | [Simulazione e gestione flussi migratori](https://github.com/TdP-prove-finali/OkpekpeDestiny) | 2022 |
 | Leonardo Priami | [Applicazione per la simulazione dei formati limited di magic: the gathering e conseguente ottimizzazione del mazzo](https://github.com/TdP-prove-finali/PriamiLeonardo) | 2022 |
 | Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
-| Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) | 2022 |
 | Filippo Castellarin | [Applicazione Java per il calcolo di un itinerario Interrail](https://github.com/TdP-prove-finali/CastellarinFilippo) | 2022 |
 | Lorenzo Canini | [Simulazione di un anno scolastico](https://github.com/TdP-prove-finali/CaniniLorenzo) | 2022 |
 | Roberta De Seriis | [Applicazione per la valutazione e selezione della risorsa energetica idonea alla realizzazione di CER (Comunità energetiche rinnovabili)](https://github.com/TdP-prove-finali/DeSeriisRoberta) | 2022 |
@@ -39,6 +38,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) |  [:arrow_forward:](https://youtu.be/fVZBbvGGsYk) | 2022 |
 | Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) |  [:arrow_forward:](https://youtu.be/wbMAJAll2gM) | 2022 |
 | Filippo Maria Simone D'Anna | [“Plan Your Tour” Tour personalizzati nel National Gallery of Art di Washington D.C.](https://github.com/TdP-prove-finali/DAnnaFilippoMariaSimone)  |  [:arrow_forward:](https://youtu.be/BAJJCblY_Pk) | 2022 |
 | Simone Muraro | [Simulazione ed analisi progetto bag-sharing](https://github.com/TdP-prove-finali/MuraroSimone) |  [:arrow_forward:](https://youtu.be/jmUEDCQFCsw) | 2021 |
