@@ -21,7 +21,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Riccardo Campana | [USA Travel Planner](https://github.com/TdP-prove-finali/CampanaRiccardo) | 2022 |
 | Nicolò Antonio Fiore | [Simulazione di una stagione di Champions League](https://github.com/TdP-prove-finali/FioreNicoloAntonio) | 2022 |
 | Matteo Busnelli | [Simulazione Superlega](https://github.com/TdP-prove-finali/BusnelliMatteo) | 2022 |
-| Alessandro Maturo | [Tool per le simulazioni di mercato di una rosa calcistica](https://github.com/TdP-prove-finali/MaturoAlessandro) | 2022 |
 | Destiny Okpekpe | [Simulazione e gestione flussi migratori](https://github.com/TdP-prove-finali/OkpekpeDestiny) | 2022 |
 | Leonardo Priami | [Applicazione per la simulazione dei formati limited di magic: the gathering e conseguente ottimizzazione del mazzo](https://github.com/TdP-prove-finali/PriamiLeonardo) | 2022 |
 | Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
@@ -38,6 +37,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Alessandro Maturo | [Tool per le simulazioni di mercato di una rosa calcistica](https://github.com/TdP-prove-finali/MaturoAlessandro) |  [:arrow_forward:](https://youtu.be/-H3ETWBZ_48) | 2022 |
 | Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) |  [:arrow_forward:](https://youtu.be/fVZBbvGGsYk) | 2022 |
 | Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) |  [:arrow_forward:](https://youtu.be/wbMAJAll2gM) | 2022 |
 | Filippo Maria Simone D'Anna | [“Plan Your Tour” Tour personalizzati nel National Gallery of Art di Washington D.C.](https://github.com/TdP-prove-finali/DAnnaFilippoMariaSimone)  |  [:arrow_forward:](https://youtu.be/BAJJCblY_Pk) | 2022 |
