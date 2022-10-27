@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Sylvie Molinatto | [Tool per analisi del Gender Gap e simulazione ricerca di un team work](https://github.com/TdP-prove-finali/MolinattoSylvie) | 2022 |
 | Daniele Sferlazzo | [Valutazione del mercato immobiliare di Melbourne](https://github.com/TdP-prove-finali/SferlazzoDaniele) | 2022 |
 | Riccardo Campana | [USA Travel Planner](https://github.com/TdP-prove-finali/CampanaRiccardo) | 2022 |
 | Nicolò Antonio Fiore | [Simulazione di una stagione di Champions League](https://github.com/TdP-prove-finali/FioreNicoloAntonio) | 2022 |
