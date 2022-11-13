@@ -17,9 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
-| Sylvie Molinatto | [Tool per analisi del Gender Gap e simulazione ricerca di un team work](https://github.com/TdP-prove-finali/MolinattoSylvie) | 2022 |
 | Daniele Sferlazzo | [Valutazione del mercato immobiliare di Melbourne](https://github.com/TdP-prove-finali/SferlazzoDaniele) | 2022 |
-| Riccardo Campana | [USA Travel Planner](https://github.com/TdP-prove-finali/CampanaRiccardo) | 2022 |
 | Nicolò Antonio Fiore | [Simulazione di una stagione di Champions League](https://github.com/TdP-prove-finali/FioreNicoloAntonio) | 2022 |
 | Matteo Busnelli | [Simulazione Superlega](https://github.com/TdP-prove-finali/BusnelliMatteo) | 2022 |
 | Destiny Okpekpe | [Simulazione e gestione flussi migratori](https://github.com/TdP-prove-finali/OkpekpeDestiny) | 2022 |
@@ -27,7 +25,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
 | Filippo Castellarin | [Applicazione Java per il calcolo di un itinerario Interrail](https://github.com/TdP-prove-finali/CastellarinFilippo) | 2022 |
 | Lorenzo Canini | [Simulazione di un anno scolastico](https://github.com/TdP-prove-finali/CaniniLorenzo) | 2022 |
-| Roberta De Seriis | [Applicazione per la valutazione e selezione della risorsa energetica idonea alla realizzazione di CER (Comunità energetiche rinnovabili)](https://github.com/TdP-prove-finali/DeSeriisRoberta) | 2022 |
 | Emanuele De Leo | [Simulatore di trasporto merci](https://github.com/TdP-prove-finali/DeLeoEmanuele) | 2022 |
 | Federico Manzetti | [Applicazione per la gestione e l’ottimizzazione delle prestazioni di una linea di produzione industriale](https://github.com/TdP-prove-finali/ManzettiFederico) | 2021 |
 <!--- 
@@ -38,6 +35,9 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Sylvie Molinatto | [Tool per analisi del Gender Gap e simulazione ricerca di un team work](https://github.com/TdP-prove-finali/MolinattoSylvie) |  [:arrow_forward:](https://www.youtube.com/watch?v=OoIEJGWtNPE) | 2022 |
+| Roberta De Seriis | [Applicazione per la valutazione e selezione della risorsa energetica idonea alla realizzazione di CER (Comunità energetiche rinnovabili)](https://github.com/TdP-prove-finali/DeSeriisRoberta) |  [:arrow_forward:](https://youtu.be/kYK9aQlIITU) | 2022 |
+| Riccardo Campana | [USA Travel Planner](https://github.com/TdP-prove-finali/CampanaRiccardo) |  [:arrow_forward:](https://youtu.be/DXojfuG4Ka8) | 2022 |
 | Alessandro Maturo | [Tool per le simulazioni di mercato di una rosa calcistica](https://github.com/TdP-prove-finali/MaturoAlessandro) |  [:arrow_forward:](https://youtu.be/-H3ETWBZ_48) | 2022 |
 | Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) |  [:arrow_forward:](https://youtu.be/fVZBbvGGsYk) | 2022 |
 | Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) |  [:arrow_forward:](https://youtu.be/wbMAJAll2gM) | 2022 |
