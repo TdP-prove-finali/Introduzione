@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Stefano Bonazzi | [Analisi e ottimizzazione di una linea di produzione industriale nel settore automotive](https://github.com/TdP-prove-finali/BonazziStefano) | 2023 |
 | Davide Proglio | [Software per la gestione degli ordini di produzione e per la simulazione produttiva](https://github.com/TdP-prove-finali/ProglioDavide) | 2023 |
 | Davide Faudella | [Sviluppo di un software per ottimizzare l'acquisto di libri su Amazon](https://github.com/TdP-prove-finali/FaudellaDavide) | 2022 |
 | Daniele Sferlazzo | [Valutazione del mercato immobiliare di Melbourne](https://github.com/TdP-prove-finali/SferlazzoDaniele) | 2022 |
