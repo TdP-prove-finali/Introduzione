@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Davide Proglio | [Software per la gestione degli ordini di produzione e per la simulazione produttiva](https://github.com/TdP-prove-finali/ProglioDavide) | 2023 |
 | Davide Faudella | [Sviluppo di un software per ottimizzare l'acquisto di libri su Amazon](https://github.com/TdP-prove-finali/FaudellaDavide) | 2022 |
 | Daniele Sferlazzo | [Valutazione del mercato immobiliare di Melbourne](https://github.com/TdP-prove-finali/SferlazzoDaniele) | 2022 |
 | Nicolò Antonio Fiore | [Simulazione di una stagione di Champions League](https://github.com/TdP-prove-finali/FioreNicoloAntonio) | 2022 |
