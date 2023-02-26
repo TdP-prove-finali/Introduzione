@@ -25,7 +25,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Nicolò Antonio Fiore | [Simulazione di una stagione di Champions League](https://github.com/TdP-prove-finali/FioreNicoloAntonio) | 2022 |
 | Matteo Busnelli | [Simulazione Superlega](https://github.com/TdP-prove-finali/BusnelliMatteo) | 2022 |
 | Destiny Okpekpe | [Simulazione e gestione flussi migratori](https://github.com/TdP-prove-finali/OkpekpeDestiny) | 2022 |
-| Leonardo Priami | [Applicazione per la simulazione dei formati limited di magic: the gathering e conseguente ottimizzazione del mazzo](https://github.com/TdP-prove-finali/PriamiLeonardo) | 2022 |
 | Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
 | Filippo Castellarin | [Applicazione Java per il calcolo di un itinerario Interrail](https://github.com/TdP-prove-finali/CastellarinFilippo) | 2022 |
 | Lorenzo Canini | [Simulazione di un anno scolastico](https://github.com/TdP-prove-finali/CaniniLorenzo) | 2022 |
@@ -39,6 +38,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Leonardo Priami | [Applicazione per la simulazione dei formati limited di magic: the gathering e conseguente ottimizzazione del mazzo](https://github.com/TdP-prove-finali/PriamiLeonardo) |  [:arrow_forward:](https://youtu.be/8ZBVpQn2PCs) | 2023 |
 | Sylvie Molinatto | [Tool per analisi del Gender Gap e simulazione ricerca di un team work](https://github.com/TdP-prove-finali/MolinattoSylvie) |  [:arrow_forward:](https://www.youtube.com/watch?v=OoIEJGWtNPE) | 2022 |
 | Roberta De Seriis | [Applicazione per la valutazione e selezione della risorsa energetica idonea alla realizzazione di CER (Comunità energetiche rinnovabili)](https://github.com/TdP-prove-finali/DeSeriisRoberta) |  [:arrow_forward:](https://youtu.be/kYK9aQlIITU) | 2022 |
 | Riccardo Campana | [USA Travel Planner](https://github.com/TdP-prove-finali/CampanaRiccardo) |  [:arrow_forward:](https://youtu.be/DXojfuG4Ka8) | 2022 |
