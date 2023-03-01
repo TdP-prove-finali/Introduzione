@@ -18,7 +18,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Studente | Titolo | Anno | 
 |---|---|---|
 | Noemi Marchiaro |[IoT & sorted waste: la transizione 4.0 di ASP e Comune di Asti](https://github.com/TdP-prove-finali/MarchiaroNoemi) | 2023 |
-| Stefano Bonazzi | [Analisi e ottimizzazione di una linea di produzione industriale nel settore automotive](https://github.com/TdP-prove-finali/BonazziStefano) | 2023 |
 | Davide Proglio | [Software per la gestione degli ordini di produzione e per la simulazione produttiva](https://github.com/TdP-prove-finali/ProglioDavide) | 2023 |
 | Davide Faudella | [Sviluppo di un software per ottimizzare l'acquisto di libri su Amazon](https://github.com/TdP-prove-finali/FaudellaDavide) | 2022 |
 | Daniele Sferlazzo | [Valutazione del mercato immobiliare di Melbourne](https://github.com/TdP-prove-finali/SferlazzoDaniele) | 2022 |
@@ -38,6 +37,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Stefano Bonazzi | [Analisi e ottimizzazione di una linea di produzione industriale nel settore automotive](https://github.com/TdP-prove-finali/BonazziStefano) | [:arrow_forward:](https://youtu.be/BAJfIhqDq0A) |  2023 |
 | Leonardo Priami | [Applicazione per la simulazione dei formati limited di magic: the gathering e conseguente ottimizzazione del mazzo](https://github.com/TdP-prove-finali/PriamiLeonardo) |  [:arrow_forward:](https://youtu.be/8ZBVpQn2PCs) | 2023 |
 | Sylvie Molinatto | [Tool per analisi del Gender Gap e simulazione ricerca di un team work](https://github.com/TdP-prove-finali/MolinattoSylvie) |  [:arrow_forward:](https://www.youtube.com/watch?v=OoIEJGWtNPE) | 2022 |
 | Roberta De Seriis | [Applicazione per la valutazione e selezione della risorsa energetica idonea alla realizzazione di CER (Comunità energetiche rinnovabili)](https://github.com/TdP-prove-finali/DeSeriisRoberta) |  [:arrow_forward:](https://youtu.be/kYK9aQlIITU) | 2022 |
