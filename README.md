@@ -17,6 +17,8 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Erika Francesca Caragnano | [Udemy Remote Learning: software per la selezione di piani formativi personalizzati](https://github.com/TdP-prove-finali/CaragnanoErikaFrancesca) | 2023 |
+| Carlo Marra | [Sviluppo di un'applicazione software per la generazione automatica di playlist attraverso la ricerca ricorsiva e grafi pesati](https://github.com/TdP-prove-finali/MarraCarlo) | 2023 |
 | Michele Della Mura | [Simulatore incidenti stradali](https://github.com/TdP-prove-finali/DellaMuraMichele) | 2023 |
 | Mattia Ghigo | [Applicazione per la creazione di un itinerario turistico nella città di Torino](https://github.com/TdP-prove-finali/GhigoMattia) | 2023 |
 | Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | 2023 |
