@@ -25,34 +25,36 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | 2023 |
 | Lorenzo Ravalli | [Turni 24H. Software per la gestione di turni](https://github.com/TdP-prove-finali/RavalliLorenzo) | 2023 |
 | Noemi Marchiaro |[IoT & sorted waste: la transizione 4.0 di ASP e Comune di Asti](https://github.com/TdP-prove-finali/MarchiaroNoemi) | 2023 |
-| Davide Proglio | [Software per la gestione degli ordini di produzione e per la simulazione produttiva](https://github.com/TdP-prove-finali/ProglioDavide) | 2023 |
 | Davide Faudella | [Sviluppo di un software per ottimizzare l'acquisto di libri su Amazon](https://github.com/TdP-prove-finali/FaudellaDavide) | 2022 |
-| Daniele Sferlazzo | [Valutazione del mercato immobiliare di Melbourne](https://github.com/TdP-prove-finali/SferlazzoDaniele) | 2022 |
-| Nicolò Antonio Fiore | [Simulazione di una stagione di Champions League](https://github.com/TdP-prove-finali/FioreNicoloAntonio) | 2022 |
-| Matteo Busnelli | [Simulazione Superlega](https://github.com/TdP-prove-finali/BusnelliMatteo) | 2022 |
-| Destiny Okpekpe | [Simulazione e gestione flussi migratori](https://github.com/TdP-prove-finali/OkpekpeDestiny) | 2022 |
-| Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | 2022 |
-| Filippo Castellarin | [Applicazione Java per il calcolo di un itinerario Interrail](https://github.com/TdP-prove-finali/CastellarinFilippo) | 2022 |
-| Lorenzo Canini | [Simulazione di un anno scolastico](https://github.com/TdP-prove-finali/CaniniLorenzo) | 2022 |
-| Emanuele De Leo | [Simulatore di trasporto merci](https://github.com/TdP-prove-finali/DeLeoEmanuele) | 2022 |
-| Federico Manzetti | [Applicazione per la gestione e l’ottimizzazione delle prestazioni di una linea di produzione industriale](https://github.com/TdP-prove-finali/ManzettiFederico) | 2021 |
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
+
+[:arrow_forward:]() | 
 --->
  
  # Lavori conclusi
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Davide Proglio | [Software per la gestione degli ordini di produzione e per la simulazione produttiva](https://github.com/TdP-prove-finali/ProglioDavide) | [:arrow_forward:](https://youtu.be/MzEbOgbXo_Q) | 2023 |
 | Stefano Bonazzi | [Analisi e ottimizzazione di una linea di produzione industriale nel settore automotive](https://github.com/TdP-prove-finali/BonazziStefano) | [:arrow_forward:](https://youtu.be/BAJfIhqDq0A) |  2023 |
 | Leonardo Priami | [Applicazione per la simulazione dei formati limited di magic: the gathering e conseguente ottimizzazione del mazzo](https://github.com/TdP-prove-finali/PriamiLeonardo) |  [:arrow_forward:](https://youtu.be/8ZBVpQn2PCs) | 2023 |
-| Sylvie Molinatto | [Tool per analisi del Gender Gap e simulazione ricerca di un team work](https://github.com/TdP-prove-finali/MolinattoSylvie) |  [:arrow_forward:](https://www.youtube.com/watch?v=OoIEJGWtNPE) | 2022 |
 | Roberta De Seriis | [Applicazione per la valutazione e selezione della risorsa energetica idonea alla realizzazione di CER (Comunità energetiche rinnovabili)](https://github.com/TdP-prove-finali/DeSeriisRoberta) |  [:arrow_forward:](https://youtu.be/kYK9aQlIITU) | 2022 |
-| Riccardo Campana | [USA Travel Planner](https://github.com/TdP-prove-finali/CampanaRiccardo) |  [:arrow_forward:](https://youtu.be/DXojfuG4Ka8) | 2022 |
+| Nicolò Antonio Fiore | [Simulazione di una stagione di Champions League](https://github.com/TdP-prove-finali/FioreNicoloAntonio) | [:arrow_forward:](https://youtu.be/B-s9rwYAQro) | 2022 |
+| Federico Manzetti | [Applicazione per la gestione e l’ottimizzazione delle prestazioni di una linea di produzione industriale](https://github.com/TdP-prove-finali/ManzettiFederico) | [:arrow_forward:](https://youtu.be/Yo0r2SNnY_w)  | 2022 |
+| Sylvie Molinatto | [Tool per analisi del Gender Gap e simulazione ricerca di un team work](https://github.com/TdP-prove-finali/MolinattoSylvie) |  [:arrow_forward:](https://www.youtube.com/watch?v=OoIEJGWtNPE) | 2022 |
+| Matteo Busnelli | [Simulazione Superlega](https://github.com/TdP-prove-finali/BusnelliMatteo) | [:arrow_forward:](https://youtu.be/xRJOOIdsLgU) | 2022 |
+| Lorenzo Canini | [Simulazione di un anno scolastico](https://github.com/TdP-prove-finali/CaniniLorenzo) | [:arrow_forward:](https://youtu.be/GMj69clfkMY) | 2022 |
+| Destiny Okpekpe | [Simulazione e gestione flussi migratori](https://github.com/TdP-prove-finali/OkpekpeDestiny) | [:arrow_forward:](https://youtu.be/qoIsaZMpwQw) | 2022 |
+| Daniele Sferlazzo | [Valutazione del mercato immobiliare di Melbourne](https://github.com/TdP-prove-finali/SferlazzoDaniele) | [:arrow_forward:](https://youtu.be/nXIga59pYew) | 2022 |
+| Filippo Maria Simone D'Anna | [“Plan Your Tour” Tour personalizzati nel National Gallery of Art di Washington D.C.](https://github.com/TdP-prove-finali/DAnnaFilippoMariaSimone)  |  [:arrow_forward:](https://youtu.be/BAJJCblY_Pk) | 2022 |
+| Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) |  [:arrow_forward:](https://youtu.be/wbMAJAll2gM) | 2022 |
 | Alessandro Maturo | [Tool per le simulazioni di mercato di una rosa calcistica](https://github.com/TdP-prove-finali/MaturoAlessandro) |  [:arrow_forward:](https://youtu.be/-H3ETWBZ_48) | 2022 |
 | Carla Maria Medoro | [Sviluppo di un software per la gestione di una 24-hour Readathon](https://github.com/TdP-prove-finali/MedoroCarlaMaria) |  [:arrow_forward:](https://youtu.be/fVZBbvGGsYk) | 2022 |
-| Emanuele Grandi | [Sviluppo di un software per la generazione automatica di una maratona cinematografica](https://github.com/TdP-prove-finali/GrandiEmanuele) |  [:arrow_forward:](https://youtu.be/wbMAJAll2gM) | 2022 |
-| Filippo Maria Simone D'Anna | [“Plan Your Tour” Tour personalizzati nel National Gallery of Art di Washington D.C.](https://github.com/TdP-prove-finali/DAnnaFilippoMariaSimone)  |  [:arrow_forward:](https://youtu.be/BAJJCblY_Pk) | 2022 |
+| Mauro Caradonna | [Software gestionale per ufficio acquisti](https://github.com/TdP-prove-finali/CaradonnaMauro) | [:arrow_forward:](https://youtu.be/OSUiQE2tQFM) |  2022 |
+| Filippo Castellarin | [Applicazione Java per il calcolo di un itinerario Interrail](https://github.com/TdP-prove-finali/CastellarinFilippo) | [:arrow_forward:](https://youtu.be/YXR59W2VvJ4) | 2022 |
+| Emanuele De Leo | [Simulatore di trasporto merci](https://github.com/TdP-prove-finali/DeLeoEmanuele) | [:arrow_forward:](https://youtu.be/5N6vxgUKjaM)  | 2022 |
+| Riccardo Campana | [USA Travel Planner](https://github.com/TdP-prove-finali/CampanaRiccardo) |  [:arrow_forward:](https://youtu.be/DXojfuG4Ka8) | 2022 |
 | Simone Muraro | [Simulazione ed analisi progetto bag-sharing](https://github.com/TdP-prove-finali/MuraroSimone) |  [:arrow_forward:](https://youtu.be/jmUEDCQFCsw) | 2021 |
 | Davide Borgatta | [Applicazione per la creazione squadra Ultimate Team (FIFA)](https://github.com/TdP-prove-finali/BorgattaDavide) |  [:arrow_forward:](https://youtu.be/3_Zu0uQcVVM) | 2021 |
 | Davide Balossino | [Applicazione per la gestione di una squadra NBA](https://github.com/TdP-prove-finali/BalossinoDavide) | [:arrow_forward:](https://youtu.be/LlAYycsrcpQ) | 2021 |
