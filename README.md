@@ -24,7 +24,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | 2023 |
 | Lorenzo Ravalli | [Turni 24H. Software per la gestione di turni](https://github.com/TdP-prove-finali/RavalliLorenzo) | 2023 |
 | Noemi Marchiaro |[IoT & sorted waste: la transizione 4.0 di ASP e Comune di Asti](https://github.com/TdP-prove-finali/MarchiaroNoemi) | 2023 |
-| Davide Faudella | [Sviluppo di un software per ottimizzare l'acquisto di libri su Amazon](https://github.com/TdP-prove-finali/FaudellaDavide) | 2022 |
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
 
@@ -35,6 +34,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Davide Faudella | [Sviluppo di un software per ottimizzare l'acquisto di libri su Amazon](https://github.com/TdP-prove-finali/FaudellaDavide) | [:arrow_forward:](https://youtu.be/Zs0TTHQrZe4) | 2023 |
 | Mattia Ghigo | [Applicazione per la creazione di un itinerario turistico nella città di Torino](https://github.com/TdP-prove-finali/GhigoMattia) | [:arrow_forward:](https://youtu.be/XZ1HuocmU7A) | 2023 |
 | Davide Proglio | [Software per la gestione degli ordini di produzione e per la simulazione produttiva](https://github.com/TdP-prove-finali/ProglioDavide) | [:arrow_forward:](https://youtu.be/MzEbOgbXo_Q) | 2023 |
 | Stefano Bonazzi | [Analisi e ottimizzazione di una linea di produzione industriale nel settore automotive](https://github.com/TdP-prove-finali/BonazziStefano) | [:arrow_forward:](https://youtu.be/BAJfIhqDq0A) |  2023 |
