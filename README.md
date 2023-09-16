@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Matteo Tomatis | [Simulazione della Propagazione di un Incendio: una Applicazione Pratica della Percolation Theory](https://github.com/TdP-prove-finali/TomatisMatteo) | 2023 |
 | Alessio Vantaggi | [Analisi statistiche UEFA Champions League 2021-22 (per singolo giocatore e per singola squadra) e creazione di un dream team](https://github.com/TdP-prove-finali/VantaggiAlessio) | 2023 |
 | Erika Francesca Caragnano | [Udemy Remote Learning: software per la selezione di piani formativi personalizzati](https://github.com/TdP-prove-finali/CaragnanoErikaFrancesca) | 2023 |
 | Carlo Marra | [Sviluppo di un'applicazione software per la generazione automatica di playlist attraverso la ricerca ricorsiva e grafi pesati](https://github.com/TdP-prove-finali/MarraCarlo) | 2023 |
