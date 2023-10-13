@@ -23,7 +23,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Erika Francesca Caragnano | [Udemy Remote Learning: software per la selezione di piani formativi personalizzati](https://github.com/TdP-prove-finali/CaragnanoErikaFrancesca) | 2023 |
 | Carlo Marra | [Sviluppo di un'applicazione software per la generazione automatica di playlist attraverso la ricerca ricorsiva e grafi pesati](https://github.com/TdP-prove-finali/MarraCarlo) | 2023 |
 | Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | 2023 |
-| Lorenzo Ravalli | [Turni 24H. Software per la gestione di turni](https://github.com/TdP-prove-finali/RavalliLorenzo) | 2023 |
 | Noemi Marchiaro |[IoT & sorted waste: la transizione 4.0 di ASP e Comune di Asti](https://github.com/TdP-prove-finali/MarchiaroNoemi) | 2023 |
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
@@ -35,6 +34,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Lorenzo Ravalli | [Turni 24H. Software per la gestione di turni](https://github.com/TdP-prove-finali/RavalliLorenzo) | | [:arrow_forward:](https://youtu.be/2AwoMV82ah8) | 2023 |
 | Michele Della Mura | [Simulatore incidenti stradali](https://github.com/TdP-prove-finali/DellaMuraMichele) |  [:arrow_forward:](https://youtu.be/HFDKYQJDHmY) | 2023 |
 | Davide Faudella | [Sviluppo di un software per ottimizzare l'acquisto di libri su Amazon](https://github.com/TdP-prove-finali/FaudellaDavide) | [:arrow_forward:](https://youtu.be/Zs0TTHQrZe4) | 2023 |
 | Mattia Ghigo | [Applicazione per la creazione di un itinerario turistico nella città di Torino](https://github.com/TdP-prove-finali/GhigoMattia) | [:arrow_forward:](https://youtu.be/XZ1HuocmU7A) | 2023 |
