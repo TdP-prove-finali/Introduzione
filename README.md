@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Carlo Verrazzani | [Simulatore della Ryder Cup di golf: il torneo di golf a squadre più seguito al mondo](https://github.com/TdP-prove-finali/VerrazzaniCarlo) | 2023 |
 | Federico Olivero | [Software per schedulazione e simulazione di No Regression Test](https://github.com/TdP-prove-finali/OliveroFederico) | 2023 |
 | Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | 2023 |
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | 2023 |
