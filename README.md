@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Federico Olivero } [Software per schedulazione e simulazione di No Regression Test](https://github.com/TdP-prove-finali/OliveroFederico) | 2023 |
 | Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | 2023 |
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | 2023 |
 | Matteo Tomatis | [Simulazione della Propagazione di un Incendio: una Applicazione Pratica della Percolation Theory](https://github.com/TdP-prove-finali/TomatisMatteo) | 2023 |
