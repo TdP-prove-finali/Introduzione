@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | 2023 |
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | 2023 |
 | Matteo Tomatis | [Simulazione della Propagazione di un Incendio: una Applicazione Pratica della Percolation Theory](https://github.com/TdP-prove-finali/TomatisMatteo) | 2023 |
 | Alessio Vantaggi | [Analisi statistiche UEFA Champions League 2021-22 (per singolo giocatore e per singola squadra) e creazione di un dream team](https://github.com/TdP-prove-finali/VantaggiAlessio) | 2023 |
