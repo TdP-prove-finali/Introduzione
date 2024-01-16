@@ -17,6 +17,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Mario Francesco Pio Lapadula | [Simulazione di una stagione di F1 gestendo lo sviluppo tecnico di una scuderia](https://github.com/TdP-prove-finali/LapadulaMarioFrancescoPio) | 2024 |
 | Aurora Leoni | [Applicazione Java per la creazione di un itinerario su strada in giro per l'Italia](https://github.com/TdP-prove-finali/LeoneAurora) | 2023 |
 | Carlo Verrazzani | [Simulatore della Ryder Cup di golf: il torneo di golf a squadre più seguito al mondo](https://github.com/TdP-prove-finali/VerrazzaniCarlo) | 2023 |
 | Federico Olivero | [Software per schedulazione e simulazione di No Regression Test](https://github.com/TdP-prove-finali/OliveroFederico) | 2023 |
