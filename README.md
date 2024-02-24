@@ -26,7 +26,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | 2023 |
 | Alessio Vantaggi | [Analisi statistiche UEFA Champions League 2021-22 (per singolo giocatore e per singola squadra) e creazione di un dream team](https://github.com/TdP-prove-finali/VantaggiAlessio) | 2023 |
 | Carlo Marra | [Sviluppo di un'applicazione software per la generazione automatica di playlist attraverso la ricerca ricorsiva e grafi pesati](https://github.com/TdP-prove-finali/MarraCarlo) | 2023 |
-| Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | 2023 |
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
 
@@ -37,6 +36,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | [:arrow_forward:](https://youtu.be/DV8gbuIhYhI) | 2023 |
 | Matteo Tomatis | [Simulazione della Propagazione di un Incendio: una Applicazione Pratica della Percolation Theory](https://github.com/TdP-prove-finali/TomatisMatteo) | [:arrow_forward:](https://youtu.be/W1OcCziKHfE) | 2023 |
 | Interlandi Rosario | [Realizzazione di un applicativo di supporto alle vendite per una concessionaria](https://github.com/TdP-prove-finali/InterlandiRosario) | [:arrow_forward:](https://youtu.be/hZkOR1db05c) | 2024 |
 | Erika Francesca Caragnano | [Udemy Remote Learning: software per la selezione di piani formativi personalizzati](https://github.com/TdP-prove-finali/CaragnanoErikaFrancesca) | [:arrow_forward:](https://youtu.be/VgKWqBVGU00) | 2023 |
