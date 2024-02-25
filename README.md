@@ -19,7 +19,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 |---|---|---|
 | Ludovica Falcone | [L’industria cinematografica e la ridistribuzione dei suoi ricavi](https://github.com/TdP-prove-finali/FalconeLudovica) | 2024 |
 | Mario Francesco Pio Lapadula | [Simulazione di una stagione di F1 gestendo lo sviluppo tecnico di una scuderia](https://github.com/TdP-prove-finali/LapadulaMarioFrancescoPio) | 2024 |
-| Aurora Leoni | [Applicazione Java per la creazione di un itinerario su strada in giro per l'Italia](https://github.com/TdP-prove-finali/LeoneAurora) | 2023 |
+| Aurora Leone | [Applicazione Java per la creazione di un itinerario su strada in giro per l'Italia](https://github.com/TdP-prove-finali/LeoneAurora) | 2023 |
 | Carlo Verrazzani | [Simulatore della Ryder Cup di golf: il torneo di golf a squadre più seguito al mondo](https://github.com/TdP-prove-finali/VerrazzaniCarlo) | 2023 |
 | Federico Olivero | [Software per schedulazione e simulazione di No Regression Test](https://github.com/TdP-prove-finali/OliveroFederico) | 2023 |
 | Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | 2023 |
@@ -35,6 +35,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Aurora Leone | [Applicazione Java per la creazione di un itinerario su strada in giro per l'Italia](https://github.com/TdP-prove-finali/LeoneAurora) | [:arrow_forward:](https://youtu.be/ZBR7NMxk6ww) | 2024 |
 | Carlo Marra | [Sviluppo di un'applicazione software per la generazione automatica di playlist attraverso la ricerca ricorsiva e grafi pesati](https://github.com/TdP-prove-finali/MarraCarlo) | [:arrow_forward:](https://youtu.be/eR-s5fUmcfQ) | 2024 |
 | Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | [:arrow_forward:](https://youtu.be/DV8gbuIhYhI) | 2024 |
 | Matteo Tomatis | [Simulazione della Propagazione di un Incendio: una Applicazione Pratica della Percolation Theory](https://github.com/TdP-prove-finali/TomatisMatteo) | [:arrow_forward:](https://youtu.be/W1OcCziKHfE) | 2024 |
