@@ -19,7 +19,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 |---|---|---|
 | Ludovica Falcone | [L’industria cinematografica e la ridistribuzione dei suoi ricavi](https://github.com/TdP-prove-finali/FalconeLudovica) | 2024 |
 | Mario Francesco Pio Lapadula | [Simulazione di una stagione di F1 gestendo lo sviluppo tecnico di una scuderia](https://github.com/TdP-prove-finali/LapadulaMarioFrancescoPio) | 2024 |
-| Aurora Leone | [Applicazione Java per la creazione di un itinerario su strada in giro per l'Italia](https://github.com/TdP-prove-finali/LeoneAurora) | 2023 |
 | Federico Olivero | [Software per schedulazione e simulazione di No Regression Test](https://github.com/TdP-prove-finali/OliveroFederico) | 2023 |
 | Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | 2023 |
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | 2023 |
