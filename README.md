@@ -19,10 +19,8 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 |---|---|---|
 | Ludovica Falcone | [L’industria cinematografica e la ridistribuzione dei suoi ricavi](https://github.com/TdP-prove-finali/FalconeLudovica) | 2024 |
 | Mario Francesco Pio Lapadula | [Simulazione di una stagione di F1 gestendo lo sviluppo tecnico di una scuderia](https://github.com/TdP-prove-finali/LapadulaMarioFrancescoPio) | 2024 |
-| Federico Olivero | [Software per schedulazione e simulazione di No Regression Test](https://github.com/TdP-prove-finali/OliveroFederico) | 2023 |
 | Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | 2023 |
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | 2023 |
-| Alessio Vantaggi | [Analisi statistiche UEFA Champions League 2021-22 (per singolo giocatore e per singola squadra) e creazione di un dream team](https://github.com/TdP-prove-finali/VantaggiAlessio) | 2023 |
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
 
@@ -39,6 +37,8 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Gianluca Maida | [Software per la gestione e la massimizzazione dei profitti nel settore della vendita di imbarcazioni da diporto](https://github.com/TdP-prove-finali/MaidaGianluca) | [:arrow_forward:](https://youtu.be/DV8gbuIhYhI) | 2024 |
 | Matteo Tomatis | [Simulazione della Propagazione di un Incendio: una Applicazione Pratica della Percolation Theory](https://github.com/TdP-prove-finali/TomatisMatteo) | [:arrow_forward:](https://youtu.be/W1OcCziKHfE) | 2024 |
 | Interlandi Rosario | [Realizzazione di un applicativo di supporto alle vendite per una concessionaria](https://github.com/TdP-prove-finali/InterlandiRosario) | [:arrow_forward:](https://youtu.be/hZkOR1db05c) | 2024 |
+| Federico Olivero | [Software per schedulazione e simulazione di No Regression Test](https://github.com/TdP-prove-finali/OliveroFederico) | [:arrow_forward:](https://www.youtube.com/watch?v=mLdD7e7w0lw) | 2023 |
+| Alessio Vantaggi | [Analisi statistiche UEFA Champions League 2021-22 (per singolo giocatore e per singola squadra) e creazione di un dream team](https://github.com/TdP-prove-finali/VantaggiAlessio) | [:arrow_forward:](https://youtu.be/4sGSEhHNXyY) | 2023 |
 | Erika Francesca Caragnano | [Udemy Remote Learning: software per la selezione di piani formativi personalizzati](https://github.com/TdP-prove-finali/CaragnanoErikaFrancesca) | [:arrow_forward:](https://youtu.be/VgKWqBVGU00) | 2023 |
 | Noemi Marchiaro |[IoT & sorted waste: la transizione 4.0 di ASP e Comune di Asti](https://github.com/TdP-prove-finali/MarchiaroNoemi) | [:arrow_forward:](https://youtu.be/Acg3TNwZ_5I) | 2023 |
 | Lorenzo Ravalli | [Turni 24H. Software per la gestione di turni](https://github.com/TdP-prove-finali/RavalliLorenzo) | [:arrow_forward:](https://youtu.be/2AwoMV82ah8) | 2023 |
