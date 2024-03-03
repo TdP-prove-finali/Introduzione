@@ -19,7 +19,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 |---|---|---|
 | Ludovica Falcone | [L’industria cinematografica e la ridistribuzione dei suoi ricavi](https://github.com/TdP-prove-finali/FalconeLudovica) | 2024 |
 | Mario Francesco Pio Lapadula | [Simulazione di una stagione di F1 gestendo lo sviluppo tecnico di una scuderia](https://github.com/TdP-prove-finali/LapadulaMarioFrancescoPio) | 2024 |
-| Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | 2023 |
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | 2023 |
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
@@ -31,6 +30,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | [:arrow_forward:](https://youtu.be/-MFqu0rim90) | 2024 |
 | Carlo Verrazzani | [Simulatore della Ryder Cup di golf: il torneo di golf a squadre più seguito al mondo](https://github.com/TdP-prove-finali/VerrazzaniCarlo) | [:arrow_forward:](https://youtu.be/-ePZJKeEW9o) | 2024 |
 | Aurora Leone | [Applicazione Java per la creazione di un itinerario su strada in giro per l'Italia](https://github.com/TdP-prove-finali/LeoneAurora) | [:arrow_forward:](https://youtu.be/ZBR7NMxk6ww) | 2024 |
 | Carlo Marra | [Sviluppo di un'applicazione software per la generazione automatica di playlist attraverso la ricerca ricorsiva e grafi pesati](https://github.com/TdP-prove-finali/MarraCarlo) | [:arrow_forward:](https://youtu.be/eR-s5fUmcfQ) | 2024 |
