@@ -22,13 +22,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Andrea Contreras Tupac Yeny | [Software a supporto del processo decisionale](https://github.com/TdP-prove-finali/ContrerasTupacYenyAndrea.git) | 2024 |
 | Francesco Pusceddu | [Sistema Diagnostico Avanzato per la Ricerca di Malattie e Sintomi con Ponderazione della Gravità](https://github.com/TdP-prove-finali/PuscedduFrancesco.git) | 2024 |
 | Gabriele Barisione | [Sistema di gestione per la consegna di prodotti](https://github.com/TdP-prove-finali/BarisioneGabriele.git) | 2024 |
-| Flavio Caprino Pagliazzo | [Studio di zone sismiche](https://github.com/TdP-prove-finali/CaprinoFlavio.git) | 2024 |
-| Andrea Gaudino | [Applicazione per la Simulazione di Servizi di una Agenzia di Viaggi](https://github.com/TdP-prove-finali/GaudinoAndrea.git) | 2024 |
-| Lorenzo Grivet Talocia | [Applicazione per la creazione di un itinerario gastronomico personalizzato](https://github.com/TdP-prove-finali/GrivetLorenzo.git) | 2024 |
-| Marco Donatucci | [Sistema di Monitoraggio e Collaudo per Dispositivi IoT](https://github.com/TdP-prove-finali/Marco-Donatucci.git) | 2024 |
-| Alessio Dami | [Algoritmo di generazione procedurale di heightmap 2D tramite interpolazione del rumore di Perlin e diagramma di Voronoi](https://github.com/TdP-prove-finali/DamiAlessio.git) | 2024 |
-| Alexandra Elena Holota | [Software per l’analisi statistica di sistemi energetici rinnovabili e valutazione degli investimenti per i clienti](https://github.com/TdP-prove-finali/HolotaAlexandraElena.git) | 2024 |
-| Gabriele Degioanni | [Simulatore dell'ATP Tour 2024](https://github.com/TdP-prove-finali/HolotaAlexandraElena.git) | 2024 |
 
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
@@ -40,6 +33,12 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Flavio Caprino Pagliazzo | [Studio di zone sismiche](https://github.com/TdP-prove-finali/CaprinoFlavio.git) | [:arrow_forward:](https://youtu.be/6zzviLg0CxE) | 2024 |
+| Andrea Gaudino | [Applicazione per la Simulazione di Servizi di una Agenzia di Viaggi](https://github.com/TdP-prove-finali/GaudinoAndrea.git) |[:arrow_forward:](https://www.youtube.com/watch?v=aG2oLluywMc) | 2024 |
+| Lorenzo Grivet Talocia | [Applicazione per la creazione di un itinerario gastronomico personalizzato](https://github.com/TdP-prove-finali/GrivetLorenzo.git) | [:arrow_forward:](https://youtu.be/XbWh30WLr4Y) | 2024 |
+| Marco Donatucci | [Sistema di Monitoraggio e Collaudo per Dispositivi IoT](https://github.com/TdP-prove-finali/Marco-Donatucci.git) |  [:arrow_forward:](https://www.youtube.com/watch?v=1W2-TwrOiPI) | 2024 |
+| Alessio Dami | [Algoritmo di generazione procedurale di heightmap 2D tramite interpolazione del rumore di Perlin e diagramma di Voronoi](https://github.com/TdP-prove-finali/DamiAlessio.git) | [:arrow_forward:](https://youtu.be/u2JttjGjngk) | 2024 |
+| Alexandra Elena Holota | [Software per l’analisi statistica di sistemi energetici rinnovabili e valutazione degli investimenti per i clienti](https://github.com/TdP-prove-finali/HolotaAlexandraElena.git) | [:arrow_forward:](https://www.youtube.com/watch?v=4xp-AM_Ai8Y) | 2024 |
 | Mario Francesco Pio Lapadula | [Simulazione di una stagione di F1 gestendo lo sviluppo tecnico di una scuderia](https://github.com/TdP-prove-finali/LapadulaMarioFrancescoPio) | [:arrow_forward:](https://youtu.be/1NBmYkZLF8o) | 2024 |
 | Andrea Marietti | [Generatore di build con gli emblemi di Pokemon Unite](https://github.com/TdP-prove-finali/MariettiAndrea) | [:arrow_forward:](https://youtu.be/hGSeeiFzU6E) | 2024 |
 | Lorenzo Mannino | [Gestione Negozi di Biciclette: Analisi e Simulazione](https://github.com/TdP-prove-finali/ManninoLorenzo) | [:arrow_forward:](https://youtu.be/-MFqu0rim90) | 2024 |
