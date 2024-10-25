@@ -18,6 +18,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Studente | Titolo | Anno | 
 |---|---|---|
 | Ludovica Falcone | [L’industria cinematografica e la ridistribuzione dei suoi ricavi](https://github.com/TdP-prove-finali/FalconeLudovica) | 2024 |
+| Ivan Gaudino | [Pianificazione gare di trail running](https://github.com/TdP-prove-finali/GaudinoIvan.git) | 2024 |
 <!--- 
 | Andrea Pantuso | [Simulatore vaccinazione Covid-19](https://github.com/TdP-prove-finali/PantusoAndrea) | 2021 |
 
