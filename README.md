@@ -17,6 +17,8 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Anno | 
 |---|---|---|
+| Angela Dell'Edera | [Simulazione e Ottimizzazione della Sostenibilità nella Filiera della Moda](https://github.com/TdP-prove-finali/DellEderaAngela.git) | 2024 |
+| Gabriele Adorni | [Generatore di lista della spesa ottimizzata tramite la classificazione dei prodotti alimentari](https://github.com/TdP-prove-finali/AdorniGabriele.git) | 2024 |
 | Ludovica Falcone | [L’industria cinematografica e la ridistribuzione dei suoi ricavi](https://github.com/TdP-prove-finali/FalconeLudovica) | 2024 |
 | Ivan Gaudino | [Pianificazione gare di trail running](https://github.com/TdP-prove-finali/GaudinoIvan.git) | 2024 |
 | Andrea Contreras Tupac Yeny | [Software a supporto del processo decisionale](https://github.com/TdP-prove-finali/ContrerasTupacYenyAndrea.git) | 2024 |
