@@ -20,7 +20,6 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
 | Angela Dell'Edera | [Simulazione e Ottimizzazione della Sostenibilità nella Filiera della Moda](https://github.com/TdP-prove-finali/DellEderaAngela.git) | 2024 |
 | Gabriele Adorni | [Generatore di lista della spesa ottimizzata tramite la classificazione dei prodotti alimentari](https://github.com/TdP-prove-finali/AdorniGabriele.git) | 2024 |
 | Ludovica Falcone | [L’industria cinematografica e la ridistribuzione dei suoi ricavi](https://github.com/TdP-prove-finali/FalconeLudovica) | 2024 |
-| Ivan Gaudino | [Pianificazione gare di trail running](https://github.com/TdP-prove-finali/GaudinoIvan.git) | 2024 |
 | Andrea Contreras Tupac Yeny | [Software a supporto del processo decisionale](https://github.com/TdP-prove-finali/ContrerasTupacYenyAndrea.git) | 2024 |
 | Francesco Pusceddu | [Sistema Diagnostico Avanzato per la Ricerca di Malattie e Sintomi con Ponderazione della Gravità](https://github.com/TdP-prove-finali/PuscedduFrancesco.git) | 2024 |
 | Gabriele Barisione | [Sistema di gestione per la consegna di prodotti](https://github.com/TdP-prove-finali/BarisioneGabriele.git) | 2024 |
@@ -35,6 +34,7 @@ Si ricorda che, in parallelo ai passi precedenti, lo studente dovrà fare la ric
  
 | Studente | Titolo | Video | Anno |
 |---|---|---|---|
+| Ivan Gaudino | [Pianificazione gare di trail running](https://github.com/TdP-prove-finali/GaudinoIvan.git) | [:arrow_forward:](https://youtu.be/I502-RbnuNU) | 2024 |
 | Flavio Caprino Pagliazzo | [Studio di zone sismiche](https://github.com/TdP-prove-finali/CaprinoFlavio.git) | [:arrow_forward:](https://youtu.be/6zzviLg0CxE) | 2024 |
 | Andrea Gaudino | [Applicazione per la Simulazione di Servizi di una Agenzia di Viaggi](https://github.com/TdP-prove-finali/GaudinoAndrea.git) |[:arrow_forward:](https://www.youtube.com/watch?v=aG2oLluywMc) | 2024 |
 | Lorenzo Grivet Talocia | [Applicazione per la creazione di un itinerario gastronomico personalizzato](https://github.com/TdP-prove-finali/GrivetLorenzo.git) | [:arrow_forward:](https://youtu.be/XbWh30WLr4Y) | 2024 |
